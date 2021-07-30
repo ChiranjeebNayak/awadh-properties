@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Get Familiar With These Real-Estate Terms: Carpet Area, Built-Up Area and Super Built-Up Area	</title>
+	<atom:link href="https://www.squareyards.com/get-familiar-with-these-real-estate-terms-carpet-area-built-up-area-and-super-built-up-area/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.squareyards.com/blog/get-familiar-with-these-real-estate-terms-carpet-area-built-up-area-and-super-built-up-area</link>
+	<description>A Complete Guide for Real Estate Market Updates</description>
+	<lastBuildDate>Sat, 17 Jul 2021 12:43:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

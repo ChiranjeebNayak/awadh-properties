@@ -1,0 +1,2244 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vastu &#8211; Real Estate News</title>
+	<atom:link href="https://www.squareyards.com/category/lifestyle/vastu/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.squareyards.com/blog</link>
+	<description>A Complete Guide for Real Estate Market Updates</description>
+	<lastBuildDate>Sat, 17 Jul 2021 06:14:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.squareyards.com/blog/wp-content/uploads/2019/03/Kanika-blog-image-150x150.jpg</url>
+	<title>Vastu &#8211; Real Estate News</title>
+	<link>https://www.squareyards.com/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Vastu Tips &#038; Tricks For North-Facing Home</title>
+		<link>https://www.squareyards.com/blog/vastu-tips-tricks-for-north-facing-home</link>
+					<comments>https://www.squareyards.com/blog/vastu-tips-tricks-for-north-facing-home#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Sat, 17 Jul 2021 06:13:25 +0000</pubDate>
+				<category><![CDATA[LifeStyle]]></category>
+		<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=31369</guid>
+
+					<description><![CDATA[<p>The very concept of Vastu Shastra came forward during the Vedic times in India, that is the science of space and architecture that guides the people to create spaces and environment that supports their physical, mental and spiritual health and paves the way for a prosperous life. Vastu Shastra is regarded as the science of [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-tricks-for-north-facing-home">Vastu Tips &#038; Tricks For North-Facing Home</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-justify">The very concept of Vastu Shastra came forward during the Vedic times in India, that is the science of space and architecture that guides the people to create spaces and environment that supports their physical, mental and spiritual health and paves the way for a prosperous life. Vastu Shastra is regarded as the science of designing and building houses, offices, temples, and other living spaces. Since ancient times, energy has been considered a free-flowing creation that can neither be created nor destroyed.</p>
+
+
+
+<p class="has-text-align-justify">&nbsp;The transformation from one form to the other is possible. This free-flowing energy directs all the positive or negative vibes and thoughts within ourselves and our surroundings. Following the sets of rules and regulations of Vastu before entering any new place is mandatory to live a healthy and peaceful life.</p>
+
+
+
+<p class="has-text-align-justify">Referring to our auspicious Mythology and Vedas, Vastu Shastra indicates the directions- East and North to be most blessed with positive energies; hence, North-facing homes are the most auspicious ones.<strong> Vastu Shastra for North Facing Homes </strong>is widely accepted because of the presence of Lord Kuber, also known as the God of Wealth, in the North direction. It is not only the north-facing home that brings in prosperity but the whole North-facing house planin which every direction should be planned as per the Vastu. North Facing Home Vastu includes a complete list of directions for different corners of the house that needs to be followed to attract good positive energies. The list is as follows:</p>
+
+
+
+<ul><li><strong>Master Bedroom:</strong> Should face South-west region</li><li><strong>Pooja Room:</strong> Should be located in North-east region</li><li><strong>Living Room:</strong> Should face North-east region</li><li><strong>Guest Room:</strong> Should be in the North-west region</li><li><strong>Kitchen:</strong> Should lie in the South-east or North-west direction.</li></ul>
+
+
+
+<h2 id="h-about-north-facing-home"><strong>About North Facing Home</strong></h2>
+
+
+
+<p class="has-text-align-justify">Briefly describing since the existence of humans, directions have played an essential role in assisting where, what and when to hunt, hide and migrate. Era&#8217;s changed, but directions still play a significant role in defining wealth and prosperity in human life; hence, the main entry gate of any house situated in the north direction is considered as North Facing Home that accounts for most positive energies.</p>
+
+
+
+<h2 id="h-are-north-facing-homes-good-or-bad"><strong>Are North Facing Homes Good or Bad?</strong></h2>
+
+
+
+<p class="has-text-align-justify">It would not be fitting to conclude that only <strong>North Facing House Plans</strong> are the most appropriate and good ones, and the rest of the directions are not; rather, all the directions have their specialty, no direction is good or bad. People need to follow specific guidelines of <strong>Vastu Shastra for North Facing Homes </strong>to attract prosperity to their homes.</p>
+
+
+
+<h2 id="h-location-of-main-gate-in-north-facing-house-plan"><strong>Location of Main Gate in North Facing House Plan</strong></h2>
+
+
+
+<p class="has-text-align-justify">In any house plan, there is always a special emphasis on the location of the main gate because it is the entrance point of the home from where either all negative or all the positive forces will enter the home. Hence its placement is the major area of concern. So, in a<strong> North Facing House Plan</strong>, the main gate should only be located in the North direction, the distance between north-east and north-west is divided into nine equal parts, where also the fifth step is the most auspicious among all because of the belief of the existence of God of Wealth there.</p>
+
+
+
+<figure class="wp-block-table"><table><tbody><tr><td class="has-text-align-center" data-align="center"><span style="background-color:#0693e3" class="has-inline-background">9</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#0693e3" class="has-inline-background">8</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#0693e3" class="has-inline-background">7</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#0693e3" class="has-inline-background">6</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#0bf90d" class="has-inline-background">5</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#fef208" class="has-inline-background">4</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#fef208" class="has-inline-background">3</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#fef208" class="has-inline-background">2</span></td><td class="has-text-align-center" data-align="center"><span style="background-color:#fef208" class="has-inline-background">1</span></td></tr></tbody></table><figcaption>↑ Towards North</figcaption></figure>
+
+
+
+<h2 id="h-importance-of-padas-in-vastu-shastra"><strong>Importance of Padas in Vastu Shastra</strong></h2>
+
+
+
+<p class="has-text-align-justify">According to the Vastu Shastra, a north-facing home is the most auspicious location as no pada situated in this direction is considered inauspicious. But to attract prosperity and well-being of the family members, people should follow the following tips:</p>
+
+
+
+<p class="has-text-align-justify">As stated above, the fifth pada is considered the most auspicious among all the nine padas because of the presence of the Lord of wealth Kuber and determines the entrance of all the flow of energy in the house. Therefore, the main gate should always be placed in the fifth pada to attract wealth and prosperity to your home.</p>
+
+
+
+<h2 id="h-is-there-any-alternative-for-placing-the-main-door-at-the-fifth-pada"><strong>Is there any alternative for placing the main door at the fifth pada?</strong></h2>
+
+
+
+<p class="has-text-align-justify">In Vastu Shastra, it is advised that if due to any circumstances like size issue or anything else, the individual cannot place the main gate at fifth pada, then they may utilize first to the fourth pada particularly, and should not leave the fifth one. In some cases, if there is no choice to place the main door from first to the fifth pada, people may use sixth to the ninth pada to place the door.</p>
+
+
+
+<p class="has-text-align-justify"><strong>Caution: </strong>It is advised that, due to the unavailability of any other pada for placement of the door, any individual tends to place the door at the fifth pada, they are advised to leave some space from the north-east corner. The door must not touch this corner under any circumstances.<strong></strong></p>
+
+
+
+<h2 id="h-ideal-north-facing-house-plan"><strong>Ideal North Facing House Plan</strong></h2>
+
+
+
+<h3 id="h-west-direction"><strong>West Direction</strong></h3>
+
+
+
+<p><u><strong>Ideal for:</strong></u></p>
+
+
+
+<ul><li>Kids Bedroom</li><li>Dining Room</li><li>Study Room</li><li>Stairs</li></ul>
+
+
+
+<h3 id="h-north-west-direction"><strong>North-West Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Guest Bedroom</li><li>Kitchen</li><li>Living Room</li></ul>
+
+
+
+<h3 id="h-north-direction"><strong>North Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Drawing Room</li><li>Living Room</li><li>Office</li></ul>
+
+
+
+<h3 id="h-north-east-direction"><strong>North-East Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Puja Room</li></ul>
+
+
+
+<p><strong><u>Not Good for:</u></strong></p>
+
+
+
+<ul><li>Guardroom, storeroom, servant’s room, generator, kitchen, bathroom, and stairs.</li></ul>
+
+
+
+<h3 id="h-east-direction"><strong>East Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Hall</li><li>Balcony</li><li>Porch</li><li>Verandah</li></ul>
+
+
+
+<h3 id="h-south-east-direction"><strong>South-East Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Bathroom</li><li>Kitchen</li><li>Stairs</li></ul>
+
+
+
+<h3 id="h-south-direction"><strong>South Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Stairs</li><li>Overhead Tank</li></ul>
+
+
+
+<h3 id="h-south-west-direction"><strong>South-West Direction</strong></h3>
+
+
+
+<p><strong><u>Ideal for:</u></strong></p>
+
+
+
+<ul><li>Master Bedroom</li><li>Garage</li><li>Dresser</li><li>Walk-in closet</li><li>Stairs</li><li>Bathroom</li><li>Store</li></ul>
+
+
+
+<h2 id="h-placement-tips-for-north-facing-home-vastu"><strong>Placement Tips for North Facing Home Vastu</strong></h2>
+
+
+
+<h3 id="h-slope-in-a-north-facing-home"><strong>Slope in a North Facing Home</strong></h3>
+
+
+
+<p class="has-text-align-justify">Since our ancient legends North direction has been considered highly auspicious as it attracts health and prosperity, therefore, it is advised that no north-facing house should have a slope existing in the North to south direction.</p>
+
+
+
+<h3 id="h-kitchen"><strong>Kitchen</strong></h3>
+
+
+
+<p class="has-text-align-justify">In a <strong>North-facing house plan, </strong>it is advised that the Kitchen should be located either in the southeast or northwest corners. However, the kitchen should never be placed in the northeast corner.</p>
+
+
+
+<h3 id="h-no-trash-accumulation"><strong>No trash accumulation</strong></h3>
+
+
+
+<p class="has-text-align-justify">According to the Vastu, it is advised that any garbage should not be accumulated in the North or northeast corner of the house, as they are the most auspicious corner of the house.</p>
+
+
+
+<h3 id="h-trees-in-a-north-facing-home"><strong>Trees in a north-facing home</strong></h3>
+
+
+
+<p class="has-text-align-justify">It is advised that no trees should be located on the north side of the home as it may become a barrier in attracting good energy to the house.</p>
+
+
+
+<h3 id="h-placement-of-holy-items"><strong>Placement of Holy items</strong></h3>
+
+
+
+<p class="has-text-align-justify">Holy items in every household are very auspicious, and their placement cannot be compromised. These items include religious symbols such as Swastika, Om, statues, paintings, etc., that cannot be kept anywhere and should be placed appropriately.</p>
+
+
+
+<h3 id="h-electricity-circuit-board"><strong>Electricity circuit board</strong></h3>
+
+
+
+<p class="has-text-align-justify">The electricity board should be placed in the southeast corner of the house because it is responsible for supplying electricity to the entire house. Placing the board in the southeast zone balances the distribution of energy.</p>
+
+
+
+<h3 id="h-the-direction-of-septic-tanks"><strong>The direction of septic tanks</strong></h3>
+
+
+
+<p class="has-text-align-justify">One should never place the septic tank around or in the northeast direction.</p>
+
+
+
+<h3 id="h-placement-of-bedrooms-and-toilets"><strong>Placement of Bedrooms and Toilets</strong></h3>
+
+
+
+<p class="has-text-align-justify">According to the Vastu of the bedroom, it is advised to construct them in the southwest region. Bathrooms and toilets should never be placed in the corners facing northeast.</p>
+
+
+
+<h3 id="h-pooja-room"><strong>Pooja room</strong></h3>
+
+
+
+<p class="has-text-align-justify">The pooja room and living room should be placed in the northeast direction.</p>
+
+
+
+<h3 id="h-guest-room"><strong>Guest room</strong></h3>
+
+
+
+<p class="has-text-align-justify">A guest room should be in the northwest direction.</p>
+
+
+
+<h3 id="h-garage-car-parking"><strong>Garage/car parking</strong></h3>
+
+
+
+<p class="has-text-align-justify">Garage or the parking space should be planned either in the southeast or northwest direction but should be avoided in the north direction as it may cause trouble with the family’s mental peace.</p>
+
+
+
+<h3 id="h-level-of-land-in-a-north-facing-home"><strong>Level of land in a north-facing home</strong></h3>
+
+
+
+<p class="has-text-align-justify">The main area of concern of the level of the land is the north direction, i.e., the land should not be higher in the north direction, nor the north direction side of the house should be placed higher than the rest of the house. The level of the floors of the entire house should be on the same lower level. It is also believed that if the front portion of the house is on a lower level, then the central room will bring progress.</p>
+
+
+
+<h2 id="h-how-to-ensure-luck-in-the-north-facing-home"><strong>How to ensure luck in the north-facing home?</strong></h2>
+
+
+
+<p class="has-text-align-justify">According to the Vastu Shastra, it is claimed that a north-facing house is the best, and if it is extended to the northeast side, it may bring greater luck. Apartments located in the north direction are not a good idea, but the flow of energy can be regulated by placing an idol of Lord Kuber towards the north direction. Vastu also claims that placing a Tulsi plant in the North, Northeast, or East direction of the house converts any negative energy into positive and brings health and prosperity.</p>
+
+
+
+<h2 id="h-staircase-placement-in-north-facing-property"><strong>Staircase placement in north-facing property</strong></h2>
+
+
+
+<p class="has-text-align-justify">For the placement of any item or room in a house, a Vastu expert should always be contacted to make the house situated in the aura of positive vibes.</p>
+
+
+
+<p class="has-text-align-justify">Here are some quick guidelines to ensure effective placements in a house:</p>
+
+
+
+<ul><li>Staircases should not be placed in the north direction to avoid any financial loss.</li><li>For the staircase, south, west, southeast, southwest, and northwest directions are considered ideal.</li><li>To avoid any nerve-related health issues, one should avoid placing staircases in the northeast direction.</li><li>Staircases should be placed in a clockwise fashion.</li></ul>
+
+
+
+<h2 id="h-effects-on-women-in-a-north-facing-house-plan"><strong>Effects on Women in a North Facing House Plan</strong></h2>
+
+
+
+<p class="has-text-align-justify">Vastu Shastra states that wealth, health, and especially women are affected by the position of the house in a certain direction. Even a woman&#8217;s success is also linked to the house she is living in, so people should be aware of the tips by which they can correct all the Vastu-doshas.</p>
+
+
+
+<ul><li>Vastu states that the southeast corner is the home of the planet Venus, which is related to women, so the southeast corner of the house should follow the Vastu related terms; else, the working women or women in the house may face problems and struggles in life.</li><li>There should be a provision of a well-lit area in the house if the main door or the bedroom door has entrances from the southeast corner.</li><li>Placement of an open and wide water tank or source of water in the north face is considered helpful for the growth of women.</li><li>Any damage in the southeast, northwest, or west zone of the house may cause severe health issues or an unsuccessful career for the women.</li></ul>
+
+
+
+<h2 id="h-which-people-should-prefer-a-north-facing-home"><strong>Which people should prefer a North Facing Home?</strong></h2>
+
+
+
+<p class="has-text-align-justify">People with their zodiac or rashi as Cancer, Scorpio, or Pisces find north-facing homes best suitable for them. Even for the people into professions like businesses or finance, such as chartered accountants, accountants, bankers, stock market traders, and investors. The broker finds that north-facing homes are beneficial in their growth. North-facing homes are also best for communication and e-service providers, tour and travel services, astrology and Vastu services, or those in the hospitality sector.</p>
+
+
+
+<h2 id="h-north-facing-homes-good-for-senior-citizens"><strong>North-facing homes good for Senior Citizens?</strong></h2>
+
+
+
+<p class="has-text-align-justify">Ideally, according to the Vastu Shastra, it is advised that the head of the family should reside in the southwest or south-facing room. If the head of the family is now retired and involved in spiritual or religious work, he must reside in the room facing North, northeast, and the east to attract prosperity and health.</p>
+
+
+
+<h2 id="h-things-to-avoid-in-a-north-facing-house-plan"><strong>Things to avoid in a North Facing House plan</strong></h2>
+
+
+
+<p class="has-text-align-justify">Following are the points that an individual must avoid in their north-facing home:</p>
+
+
+
+<ul><li>Never have the main entrance of the house placed in the northwest direction.</li><li>No bedrooms, toilets, or kitchens should be placed in the northeast corner of the house.</li><li>The wastewater runoff should not be located in the north or south direction.</li><li>Never place the entrance door on the sixth pada.</li><li>Never go for a north-facing property without looking for any other things that may or may not work in your favour.</li><li>Gardening should not be done in the northwest direction.</li><li>The underground tank should be placed in the northwest direction of the house.</li><li>Never paint your house in red or shades of maroon.</li><li>Septic tanks should not be located in the North, Northeast, or East direction of the house.</li></ul>
+
+
+
+<h2 id="h-conclusion"><strong>Conclusion</strong></h2>
+
+
+
+<p class="has-text-align-justify">Since our great mythologies, i.e., Mahabharata and Ramayana that are believed to have existed almost 3000-5000 years ago, the existence and belief in Vastu Shastra also came into power, which cannot be neglected at any cost. When things are placed according to the Vastu, good vibes, energy, and health are attracted, and if not, then many unimaginable, bad things do happen. So, one must always consult Vastu before buying any property and after shifting to a new property. According to Vastu Shastra, no direction is good or bad. Still, a north-facing property is considered most auspicious due to the belief of Lord Kuber. For any doshas, in the rest of the directions, many Vastu doshas tips are also there that help to attract positive energies in non-north-facing properties too.</p>
+
+
+
+<h2 id="h-you-might-also-like">You Might Also Like</h2>
+
+
+
+<ul class="wp-block-yoast-seo-related-links"><li><a href="https://www.squareyards.com/blog/north-facing-house-vastu-plan">North Facing House Vastu Plan for a Peaceful Life</a></li><li><a href="https://www.squareyards.com/blog/real-advice-from-a-real-woman-entrepreneur-for-women-to-start-investing">Real Advice from a Real Woman Entrepreneur for Women to Start Investing</a></li><li><a href="https://www.squareyards.com/blog/south-facing-house-vastu-plans">How to Improve Vastu for a South-facing Home?</a></li><li><a href="https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips">West Facing House Vastu Plan &amp; Tips</a></li><li><a href="https://www.squareyards.com/blog/vastu-for-flats">Vastu for Flats &amp; Apartments: 15 Major signs to watch out for</a></li></ul>
+
+
+
+<h2 id="h-frequently-asked-questions-faqs">Frequently Asked Questions (FAQs)</h2>
+
+
+        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>In which colors can we paint our north-facing home?</h2>                <div>
+					                    <p>
+						North-facing homes can be painted in shades of blue, white, cream, or khaki.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Which corner is best for the placement of the Puja room?</h2>                <div>
+					                    <p>
+						The northeast corner is ideal for the placement of the Puja room in the house.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>For the placement of things, which southwest direction is ideal?</h2>                <div>
+					                    <p>
+						Southwest direction is ideal for dressers, stores, or the placement of staircase.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Why are north-facing properties so popular?</h2>                <div>
+					                    <p>
+						North facing is so popular because, according to our Vastu Shastra, it is believed that the god of wealth, Lord Kuber resides in the north direction, which brings wealth and prosperity to our lives.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Can mirrors be placed in the south or southeast face of the property?</h2>                <div>
+					                    <p>
+						No, mirrors cannot be placed in the south or southeast face of the property.                    </p>
+                </div>
+            </div>
+        </section>
+	
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                    {
+                "@type": "Question",
+                "name": "In which colors can we paint our north-facing home?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "North-facing homes can be painted in shades of blue, white, cream, or khaki."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Which corner is best for the placement of the Puja room?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The northeast corner is ideal for the placement of the Puja room in the house."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "For the placement of things, which southwest direction is ideal?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Southwest direction is ideal for dressers, stores, or the placement of staircase."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Why are north-facing properties so popular?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "North facing is so popular because, according to our Vastu Shastra, it is believed that the god of wealth, Lord Kuber resides in the north direction, which brings wealth and prosperity to our lives."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Can mirrors be placed in the south or southeast face of the property?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "No, mirrors cannot be placed in the south or southeast face of the property."
+                                    }
+            }
+            	        ]
+    }
+
+</script><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-tricks-for-north-facing-home">Vastu Tips &#038; Tricks For North-Facing Home</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/vastu-tips-tricks-for-north-facing-home/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vastu Shastra Tips &#038; Tricks For Your West-Facing Abode</title>
+		<link>https://www.squareyards.com/blog/vastu-shastra-tips-tricks-for-your-west-facing-abode</link>
+					<comments>https://www.squareyards.com/blog/vastu-shastra-tips-tricks-for-your-west-facing-abode#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Fri, 16 Jul 2021 12:01:08 +0000</pubDate>
+				<category><![CDATA[LifeStyle]]></category>
+		<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=31334</guid>
+
+					<description><![CDATA[<p>West-facing residences are considered unlucky due to preconceived notions. Vastu experts tell us how to take advantage of the power of west-facing homes to make them more profitable for homeowners. Home purchasers may make unusual decisions to bring prosperity and positive energy into their homes. Some people, for instance, may only desire an east-facing residence, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-shastra-tips-tricks-for-your-west-facing-abode">Vastu Shastra Tips &#038; Tricks For Your West-Facing Abode</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-justify">West-facing residences are considered unlucky due to preconceived notions. Vastu experts tell us how to take advantage of the power of west-facing homes to make them more profitable for homeowners. Home purchasers may make unusual decisions to bring prosperity and positive energy into their homes. Some people, for instance, may only desire an east-facing residence, north-facing bedrooms, or perhaps an east-facing kid&#8217;s room.</p>
+
+
+
+<p class="has-text-align-justify">In truth, west-facing residences are less desirable due to a prevalent misunderstanding that they are unfortunate and inauspicious. According to experts of Vastu Shastra for west-facing homes, all angles are equal yet come with specific restrictions that one should be aware of for positivity to flow freely in the home.</p>
+
+
+
+<p class="has-text-align-justify">Even if a lovely west-facing house is available, numerous real estate brokers or lucrative property advertising will try to persuade you to buy other properties. They frequently advertise such homes at a significantly higher price, claiming that they are in high demand. It is fairly unusual for people to believe and propagate rumours that a west-facing home brings bad luck and should be avoided. On the flip side, the reality is quite different than it actually is. Nevertheless, Square Yards is here to burst these misconceptions.</p>
+
+
+
+<p class="has-text-align-justify">According to Indian Vastu gurus, each direction has its meaning and is equally fortunate. So, ensure that the property is Vastu compliant. It will help you and your family have a happy and wealthy life ahead. Today, we will dig deep into the significance of the Vastu designs for west-facing homes. So, stay connected with us as we investigate why you should not dismiss a magnificent west-facing house just based on misconceptions and rumours. So, let&#8217;s get started.</p>
+
+
+
+<h2 id="h-what-is-a-west-facing-house">What is a West-facing house?</h2>
+
+
+
+<p class="has-text-align-justify">A residence or apartment is termed west-facing if the main entrance faces west. Normally, west-facing residences are not considered auspicious, but Vastu experts disagree. West-facing residences&#8217; main entrances should be somewhat to the north-west or in the center. When it comes to the main door, the southwest approach should be avoided at all costs.</p>
+
+
+
+<p class="has-text-align-justify">The 5th and 6th pada will be the finest for the main door if you split the lengths from the northwest angle to the west corner into nine equal sections or pada, with the first in one in the west and the ninth one in the southwest. The seventh, eighth, as well as ninth padas should not be used for the entry since they are regarded as the devil&#8217;s energy corner.</p>
+
+
+
+<p class="has-text-align-justify">Nevertheless, as per Vastu Shastra, all dwellings are regarded equally auspicious. Therefore west-facing homes are no less fortunate than north or east-facing ones. If certain Vastu Shastra principles are followed, a west-facing home can be as wealthy as other dwellings. In this blog, we will look at the benefits of choosing a west-facing apartment as well as the Vastu principles to follow while building a west-facing home.</p>
+
+
+
+<p class="has-text-align-justify">According to the real convictions of the intellectual movement of Vastu Shastra, all dwellings, whether they are north, east, west, as well as south-facing, are regarded equally fortunate if they are built according to Vastu Shastra design concepts. According to Vastu Shastra, the orientation of the dwelling has no bearing. It all depends on where the house&#8217;s primary entrance or door is located.</p>
+
+
+
+<h2 id="h-is-there-any-benefit">Is there any benefit?</h2>
+
+
+
+<p class="has-text-align-justify">Homes with west-facing doors, however, according to Japanese house design principles, exude youth and enthusiasm. West-facing doors are said to let more energy into the dwelling. As a result, all traditional Geisha residences in Japan have their main entrance facing west. Folks who reside in west-facing residences are seen to be affluent and have a large social circle. They will have no adversaries and will be adored by everyone at work, relationships, and social contexts. Lawmakers, teachers, religious figures, and entrepreneurs benefit from living in residences with a west-facing orientation.</p>
+
+
+
+<p class="has-text-align-justify">The kids&#8217; room in a west-facing house might be located on the south or western side, while the guest room can be located on the northwest. However, according to Vastu, the pooja room and sitting room should be at the northeast quadrant of the home, as it is the most fortunate corner.</p>
+
+
+
+<p class="has-text-align-justify">The main bedroom should be oriented to the southwest. Your master bedroom must be on the upper floor of a multi-level home. Choose the east side for your kitchen. According to Vastu, the kitchen must not be placed immediately under or above the pooja room, bedrooms, or toilet.</p>
+
+
+
+<p class="has-text-align-justify">The main benefit of a west-facing home is that you can enjoy the brightness and brilliance of the setting sun until dusk. Some people believe that a home facing the west will bring them more prosperity and fortune. They will have no adversaries and will be popular at work and also in social situations. Politicians, business entrepreneurs, teachers, and spiritual figures are said to prefer residences with a west-facing orientation. It is also said to be beneficial to children since it provides them with energy and happiness.</p>
+
+
+
+<p class="has-text-align-justify">You may have noticed that having a house that faces west or north is unattractive or brings bad omen, and so on. But much like any other property, you may employ Vastu principles to make a west-facing house fortunate. The west is not considered an unfavourable direction in Vastu Shastra. In fact, according to Vastu Shastra, any orientation is excellent for a home. However, the position of the entry or main door is the determining element in Vastu for your property.</p>
+
+
+
+<p class="has-text-align-justify">There is a popular misconception that west-facing dwellings are Vastu-defying, but this isn&#8217;t true. West-facing houses rank below north-and east-facing buildings in terms of auspiciousness, but they are not unlucky. In fact, Vastu principles claim that the West-facing homes offer profits and financial and non-financial advantages.</p>
+
+
+
+<h2 id="h-vastu-tips-for-your-west-facing-house">Vastu Tips for your West-facing House</h2>
+
+
+
+<ul><li>As per Vastu Shastra, it is critical for homeowners developing or purchasing new homes to establish a clear door situated within the appropriate &#8216;padas&#8217; or steps. The number of padas is calculated by dividing the house into nine equal sections, starting at the northwest corner, and working southward. In west-facing residences, the fourth, third, fifth, and sixth padas are the most auspicious for main entrances because they bring optimism and pleasant feelings. If the earlier in this thread padas are unavailable, the main door might be placed on padas one and two, which are neither excellent nor bad.</li><li>The kitchen is the main house engine and a source of good health and happiness for everyone who lives there. Therefore, Vastu adherents must construct their kitchens in the proper orientation. The kitchen should be in the eastern part or southeast part of the home, according to Vastu shastra. It is claimed that doing so guarantees that a kitchen&#8217;s positive charm is at its peak.</li><li>According to Vastu principles, the master bedroom should be in the house&#8217;s southern part. As a result, if the property has more than one story, the master bedroom should preferably be on the top floor. For bedrooms, there is a greater variety of direction options. As a result, they can be placed on the building&#8217;s south, west, or western most sides. It is preferable to have your master bedroom on the southwest side of the house. This orientation helps in increasing communication between couples in the room. If you have a multi-story home, the master bedroom should be on the top floor. This would bring prosperity, peace, and ancestral benefits to your household.</li><li>According to Vastu principles, private pools, storage tanks, and water submersible pumps should not be erected towards the west. Open areas should be located on the Eastern side of the building, away from the Western direction.</li><li>Colors like white, silvery, yellowish, and beige are most suited for west-facing houses, as per Vastu principles. Furthermore, it is claimed that these colours increase earnings and benefits from the Western direction. On the other hand, the home is oriented more towards the West than other directions, a lighter shade of blue can be employed to take advantage of the direction&#8217;s advantages. Off-white as well as creams are Vastu-neutral colors, making them safe choices when faced with a color palette.</li><li>Make sure your primary door entry is in the Midwest or Northwest corner of your house. Metalwork, such as a metallic name board or a metallic bell should be designed for your west-facing entrance. Maintain a detritus main entry area. Remove any trash cans or damaged furniture from the area around the entrance door.</li><li>The first and best step is to establish whether you have a property that faces west. Determining the same might be difficult because many people believe that the setting sun is in the west. The precise west direction, on the other hand, fluctuates year to year. You can establish the precise west side in only two days every year.</li><li>The temple, also known as a pooja room, is a sacred space where you may harness all of the divine forces surrounding you. The northeast direction is the most energetic zone in a west-facing home; therefore, it makes complete sense to put it in this corner. However, not every home has the necessary space to have a separate pooja room. If your lounge room does not have enough space for this, you can position your living room inside the north and a tiny temple or pooja stand inside the north part.</li><li>While verifying the directional face of the property, use a magnetic compass to trace the precise west.</li><li>Make sure the current house&#8217;s main entrance is only in the third or fourth padas.</li><li>Build the walls mainly on the south and west sides of the building- a bit thicker and taller than those on the east and north sides.</li><li>Place your living room as well as the Pooja room at the northeast corner of the house, as this is the most auspicious part of the house.</li><li>If you don&#8217;t have a pooja room, install the temple inside the living room&#8217;s north part.</li><li>Make sure the kid&#8217;s room is facing either west, south, or north-west.</li><li>If your plot is slanted, ensure that it is slanted from south to north.</li></ul>
+
+
+
+<h2 id="h-things-you-must-avoid">Things you must avoid</h2>
+
+
+
+<ul><li>Avoid using the setting sun to discover the precise west direction.</li><li>Except for the ones listed, avoid all other padas unless you visit a Vastu specialist beforehand.</li><li>Avoid buying land with a north-to-south slope since it may result in financial losses.</li><li>Avoid buying a parcel of land or a house with a southwest or south direction expansion.</li><li>A bore well, a storage tank or a sump should not be located in the southwest corner of a west-facing residence.</li><li>A kitchen should not be placed in the house&#8217;s southwest corner.</li><li>Sleeping beneath a beam or a wall divider is not a good idea.</li><li>Make sure your legs aren&#8217;t pointed towards the bedroom door as you sleep.</li><li>Purchase a property with a South and West border that is thinner than the East and North boundaries.</li><li>Avoid any home with the main entrance blocked by a huge item such as a tree or an electric pole.</li></ul>
+
+
+
+<h2 id="h-conclusion"><strong>Conclusion</strong></h2>
+
+
+
+<p class="has-text-align-justify">As can be seen, the Vastu of west facing property is just as excellent as any other Vastu. All you have to do now is make sure you follow all of the Vastu regulations. If you are building a house on a plot, it is rather simple. However, if you are moving to a flat or apartment, you may face several difficulties. It is frequently impossible to carry out a remodel that necessitates structural changes.</p>
+
+
+
+<h2 id="h-you-might-also-like">You Might Also Like</h2>
+
+
+
+<ul class="wp-block-yoast-seo-related-links"><li><a href="https://www.squareyards.com/blog/south-facing-house-vastu-plans">How to Improve Vastu for a South-facing Home?</a></li><li><a href="https://www.squareyards.com/blog/vastu-for-flats">Vastu for Flats &amp; Apartments: 15 Major signs to watch out for</a></li><li><a href="https://www.squareyards.com/blog/north-facing-house-vastu-plan">North Facing House Vastu Plan for a Peaceful Life</a></li><li><a href="https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips">West Facing House Vastu Plan &amp; Tips</a></li><li><a href="https://www.squareyards.com/blog/west-facing-house-vastu-plans">West Facing House Vastu Plan</a></li></ul>
+
+
+
+<h2 id="h-frequently-asked-questions-faqs">Frequently Asked Questions (FAQs)</h2>
+
+
+        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Where is the sun from a west-facing house?</h2>                <div>
+					                    <p>
+						From mid-evening to sunset, west-facing residences receive sunshine. However, due to the orientation pointing, you will miss out on the early sunshine.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What is the problem of having a west-facing house?</h2>                <div>
+					                    <p>
+						If you step out from the house by the main entrance and face east, you have a western facing house.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What are the benefits of having a west-facing house?</h2>                <div>
+					                    <p>
+						For some people, owning a home like this might help them achieve abundance in their lives and careers. In addition, a west-facing home provides ample sunshine exposure.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Is there something bad about focusing on a Vastu-shastra of a west-facing house?</h2>                <div>
+					                    <p>
+						According to Vastu gurus in India, all orientations are fortunate as long as they meet Vastu principles.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Why is it considered inauspicious?</h2>                <div>
+					                    <p>
+						It is a fabrication. Homes facing west are just as nice as houses facing some other direction. Just make sure that it is Vastu compatible.                    </p>
+                </div>
+            </div>
+        </section>
+	
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                    {
+                "@type": "Question",
+                "name": "Where is the sun from a west-facing house?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "From mid-evening to sunset, west-facing residences receive sunshine. However, due to the orientation pointing, you will miss out on the early sunshine."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What is the problem of having a west-facing house?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If you step out from the house by the main entrance and face east, you have a western facing house."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What are the benefits of having a west-facing house?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "For some people, owning a home like this might help them achieve abundance in their lives and careers. In addition, a west-facing home provides ample sunshine exposure."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Is there something bad about focusing on a Vastu-shastra of a west-facing house?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to Vastu gurus in India, all orientations are fortunate as long as they meet Vastu principles."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Why is it considered inauspicious?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It is a fabrication. Homes facing west are just as nice as houses facing some other direction. Just make sure that it is Vastu compatible."
+                                    }
+            }
+            	        ]
+    }
+
+</script><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-shastra-tips-tricks-for-your-west-facing-abode">Vastu Shastra Tips &#038; Tricks For Your West-Facing Abode</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/vastu-shastra-tips-tricks-for-your-west-facing-abode/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Ultimate Guide to Kitchen Vastu for a Happy &#038; Peaceful Home</title>
+		<link>https://www.squareyards.com/blog/the-ultimate-guide-to-kitchen-vastu-for-a-happy-peaceful-home</link>
+					<comments>https://www.squareyards.com/blog/the-ultimate-guide-to-kitchen-vastu-for-a-happy-peaceful-home#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Mon, 12 Jul 2021 10:48:59 +0000</pubDate>
+				<category><![CDATA[LifeStyle]]></category>
+		<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=31205</guid>
+
+					<description><![CDATA[<p>The kitchen is the heart of the home; therefore, it is indispensable to have a positive vibe in the kitchen and avoid all sorts of negative energies. The Vastu Shastra tips that are written in ancient times are impeccable for maintaining positivity in the kitchen. Vastu Shastra is an ancient Indian art that harnesses the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/the-ultimate-guide-to-kitchen-vastu-for-a-happy-peaceful-home">The Ultimate Guide to Kitchen Vastu for a Happy &#038; Peaceful Home</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-text-align-justify">The kitchen is the heart of the home; therefore, it is indispensable to have a positive vibe in the kitchen and avoid all sorts of negative energies. The Vastu Shastra tips that are written in ancient times are impeccable for maintaining positivity in the kitchen. Vastu Shastra is an ancient Indian art that harnesses the energy of natural elements like the heat and light of the sun, the gravitational force of the earth, the direction of the winds, the intensity of rainfall, etc. It uses them to balance with the surroundings of mankind. There are certain rules in Vastu Shastra that are written solely to balance the kitchen interiors from the energies generated by these elements.</p>
+
+
+
+<h2 id="h-significance-of-kitchen-vastu">Significance of Kitchen Vastu</h2>
+
+
+
+<p class="has-text-align-justify">The kitchen is an integral part of every home. It is considered the second most sacred place in the house, after the pooja room. This is why people spend a lot of money to construct the best kitchen interiors possible, starting from flooring, cupboards, furnishing, counters, etc. But no matter how much people invest in the kitchen, it would still be useless if it is not according to the Vastu Shastra rules.</p>
+
+
+
+<p class="has-text-align-justify">The food we cook here on our own and eat differentiates a home from a hotel or any other place. Be it a wife, a husband or a parent and a child, every one of us would have different memories associated with the kitchen. So, as long as food is an essential part of our living, the kitchen will remain an integral part of our home. Hence, Vastu Sastra has given us numerous rules that would help us radiate positive energy in the kitchen at all times.</p>
+
+
+
+<p class="has-text-align-justify">For a human to stay healthy and live long, eating nutritious food is a pressing priority. The outside food in restaurants and food courts is entirely unhealthy as we never know what quality of ingredients are used. Make sure that there is always a positive aura in your kitchen.</p>
+
+
+
+<p class="has-text-align-justify">Not following the Vastu rules would result in an imbalance of energy in your kitchen, resulting in a high amount of negative energy. This negative energy affects the food made in the kitchen and, thereby, our physical and mental health.</p>
+
+
+
+<p class="has-text-align-justify">According to Vastu Shastra, there are 5 key elements in this universe (the Panchatatva) – namely air, water, earth, space, and fire. Having a perfect balance of all these 5 elements is what makes the kitchen fill with positive energy.</p>
+
+
+
+<h2 id="h-location-of-the-kitchen">Location of the Kitchen</h2>
+
+
+
+<p class="has-text-align-justify">Where the things inside the kitchen come under secondary, the location of the kitchen is the primary aspect to concentrate on. The kitchen is where we turn raw vegetables, fruits, or nuts into healthy, edible food. For such a process, the key element is fire. Another essential element is water as we use it for cleaning purposes. Balancing these 2 elements, along with the earth, sky, and the air is the key aspect on which the kitchen Vastu is decided.</p>
+
+
+
+<p class="has-text-align-justify">According to Vastu Shastra, the South-East direction is related to Agni, the god of fire. Lord Agni represents fire, and since fire is the main element to satisfy the kitchen&#8217;s purpose, the kitchen should be located in the South-East direction.</p>
+
+
+
+<p class="has-text-align-justify">While the South-East direction is always the primary choice, finding a house fulfilling this requirement is not always possible. The direction of the kitchen keeps changing depending on the facing of the house. So, in cases where the kitchen is not in the southeast direction, the northwest direction is acceptable.</p>
+
+
+
+<p class="has-text-align-justify">Avoid the construction of the kitchen in the north, north-east, or south-west directions as it is strictly against the rules of the Vastu Shastra. Also, the inclination for the flow of water should be from the southwest towards the northeast.</p>
+
+
+
+<h2 id="h-the-placement-of-the-fire-element">The Placement of the Fire Element</h2>
+
+
+
+<p class="has-text-align-justify">In ancient times wooden logs were used, and over the course of time, the wooden logs were slowly replaced by LPG (Liquified Petroleum Gas) cylinders. Almost all the people in India have shifted to using cylinders like HP or Indane. There is also a further upgrade to using electricity for cooking. But no matter which among the above options it is, the food is still considered to be cooked with the energy of fire. Hence, the placement of all fire elements should be done accordingly.</p>
+
+
+
+<p class="has-text-align-justify">The gas stove is the main source of fire, and hence it should compulsorily be placed in the southeast direction. The fire is a huge form of energy and placing the stove in the southeast direction would properly manage and handle that element. Even if it is a northwest kitchen, it should be made sure that the stove is placed in the southeast direction. Another essential point to remember is that the stove should be placed so that the person turning on the stove (i.e., lighting the fire) should always face the east, i.e., we should always be cooking while facing the east direction. The gas cylinders should also be placed in the southeast zone.</p>
+
+
+
+<p class="has-text-align-justify">As said above, not just stoves but all appliances, like the electric rice cooker, microwave oven, bread toaster, coffee machine, etc., would all come under things used for cooking and hence they all should also be in the right direction. Since these electrical appliances are also used for cooking, they are also a representation of fire and should be placed in the southeast direction.</p>
+
+
+
+<h2 id="h-refrigerator-other-appliances">Refrigerator &amp; Other Appliances</h2>
+
+
+
+<p>Electrical appliances like a mixer or wet-grinder should always be preferred to be placed in the northeast direction. But when it comes to heavy machines or utensils, like the fridge or any huge water storage, drums should be placed in the southwest direction.</p>
+
+
+
+<p class="has-text-align-justify">No matter where the placement is, always keep in mind that everything should be at least a foot above the floor and a foot away from the corners. Give the slightest preference to the northeast direction when it comes to keeping electrical appliances.</p>
+
+
+
+<h2 id="h-watch-out-for-the-position-of-the-wash-basin">Watch Out for the Position of the Wash Basin</h2>
+
+
+
+<p class="has-text-align-justify">According to Vastu Shastra experts, water is an opposite element to fire. The fire and water always repel each other, which gives negative energy. Hence, it is important to properly balance the fire and water elements to avoid negative energies in the kitchen. And to balance this, the wash basins or sinks in the kitchen should be placed away from cooking devices. This includes that the stove, gas cylinder, microwave oven, electrical coffee maker, etc., should all not be placed parallel or near the wash basin.</p>
+
+
+
+<p class="has-text-align-justify">The north or northeast directions in the kitchen are the best for wash basins and the water pipes connected. In many houses, the washing machine connection is also given in the kitchen. In such cases, the washing machine should also be placed in the northeast direction, but a foot away from the corners and a foot above the ground.</p>
+
+
+
+<h2 id="h-storage">Storage</h2>
+
+
+
+<p class="has-text-align-justify">Cupboards, shelves, etc., are all storage units where we place all the groceries, grains, rice, and many more ingredients. The placement of storage units is hence important for us to ensure that we are blessed with the groceries all along the year and that we would never run out of shortage.</p>
+
+
+
+<p class="has-text-align-justify">All the storage units should be in the kitchen’s southwest direction. If you have a habit of storing cooked food in the kitchen itself, then make sure that you place it in the southwest only.</p>
+
+
+
+<p class="has-text-align-justify">Another important point to note is never store grains near the eastern or northern walls.</p>
+
+
+
+<h2 id="h-entrance-and-ventilation">Entrance and Ventilation</h2>
+
+
+
+<p class="has-text-align-justify">Following the Vastu shastra rules for the kitchen entrance would complete the architecture with everything in the right placements. The entrance could mostly be in either north, east or west directions. There are no specific rules about how the entrance should look, but the only point to remember is, if it is a corner entrance, then make sure to leave at least an inch gap from the wall.</p>
+
+
+
+<p class="has-text-align-justify">Windows are also an integral part of the kitchen. Without a window, the kitchen would be suffocated due to the vapors and the smoke coming while cooking. They let in sunlight during the daytime. The windows are also the key opening through which all the negative energy generated in the kitchen gets out. So always make sure to keep the windows open while cooking.</p>
+
+
+
+<p class="has-text-align-justify">If there is more than one window, make sure to place them in the same direction. The exhaust fan should also be placed on the same wall as the windows, and a chimney outlet should also be in the east zone.</p>
+
+
+
+<h2 id="h-flooring-and-wall-colors">Flooring and Wall Colors</h2>
+
+
+
+<p class="has-text-align-justify">Vastu Shastra experts recommended that for the kitchen area the warm and neutral tone colours are the best as it gives out a calm vibe. Hence such pleasant colours should always be preferred.</p>
+
+
+
+<p class="has-text-align-justify">The preferable paint colors for kitchen walls are pink, yellow, red, orange, or chocolate brown. There is also a scientific theory that these colors invoke hunger which is an additional plus point. Neither white nor black are preferred, and all extra-dark colors should be avoided.</p>
+
+
+
+<p class="has-text-align-justify">The flooring could be of wooden, marble, or ceramic tiles. The cupboard work can be of any material, but make sure that the cupboard colors are also light. If you want to choose dark colors for cupboards, then make sure that they are dark and light.</p>
+
+
+
+<h2 id="h-can-the-dining-table-be-inside-the-kitchen">Can the Dining Table be Inside the Kitchen?</h2>
+
+
+
+<p class="has-text-align-justify">In cases where the kitchen area is huge, some people prefer placing the dining table inside the kitchen itself, instead of having a separate dining room. Vastu Shastra does not oppose the dining table in the kitchen, but care should be taken in its placement. According to the Vastu Shastra, the dining table should be placed in the northwest direction and never be in the center of the kitchen. If the northwest is occupied, then try either the north or the west direction.</p>
+
+
+
+<p class="has-text-align-justify">Also, make sure that there is no bathroom entrance facing the dining table.</p>
+
+
+
+<h2 id="h-some-important-points-to-remember">Some Important Points to Remember</h2>
+
+
+
+<ul><li>The kitchen should never be located under or above the bedroom, pooja room, or bathroom.</li><li>The Vastu Shastra also states that it is unhealthy for the kitchen and a bathroom to share a common wall.</li><li>The stove or the gas cylinder should never be directly in front of the kitchen’s entrance.</li><li>Heavy things should never be placed in the east or north directions of the kitchen.</li><li>The kitchen dustbin should be under the kitchen sink, and make sure to place all wastes in the dustbin. The dustbin should also be cleared regularly.</li><li>The kitchen should be neat and clean to ensure positive energy at all times.</li></ul>
+
+
+
+<h2 id="h-you-might-also-like">You Might Also Like</h2>
+
+
+
+<ul class="wp-block-yoast-seo-related-links"><li><a href="https://www.squareyards.com/blog/kitchen-vastu-defects">Kitchen Vastu Defects and Some Common Remedies</a></li><li><a href="https://www.squareyards.com/blog/top-5-tips-for-a-sustainable-home">Top 5 Tips for a Sustainable Home</a></li><li><a href="https://www.squareyards.com/blog/vastu-for-flats">Vastu for Flats &amp; Apartments: 15 Major signs to watch out for</a></li><li><a href="https://www.squareyards.com/blog/how-to-fight-with-coronavirus">How to Fight with Coronavirus?</a></li><li><a href="https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips">West Facing House Vastu Plan &amp; Tips</a></li></ul>
+
+
+
+<h2 id="h-frequently-asked-questions-faq-s">Frequently Asked Questions (FAQ&#8217;s)</h2>
+
+
+        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>In which direction should a window be placed in the kitchen?</h2>                <div>
+					                    <p>
+						The windows should be placed on the east or west side of the kitchen, preferably east.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Can I hang a clock in the kitchen?</h2>                <div>
+					                    <p>
+						If you want to hang a clock, prefer the south or the south-west wall.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Where can Water storing commodities be located?</h2>                <div>
+					                    <p>
+						Water storing commodities like earthen pots, water filters, RO purifiers, etc., should also be placed in the northeast direction.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Where should the gas stove be placed?</h2>                <div>
+					                    <p>
+						The gas stove is the main source of the fire. It should be set in the southeast direction.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Where can the utensils be stored?</h2>                <div>
+					                    <p>
+						The utensils used for cooking should be stored in the west or the south direction of the kitchen.                    </p>
+                </div>
+            </div>
+        </section>
+	
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                    {
+                "@type": "Question",
+                "name": "In which direction should a window be placed in the kitchen?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The windows should be placed on the east or west side of the kitchen, preferably east."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Can I hang a clock in the kitchen?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If you want to hang a clock, prefer the south or the south-west wall."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Where can Water storing commodities be located?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Water storing commodities like earthen pots, water filters, RO purifiers, etc., should also be placed in the northeast direction."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Where should the gas stove be placed?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The gas stove is the main source of the fire. It should be set in the southeast direction."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Where can the utensils be stored?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The utensils used for cooking should be stored in the west or the south direction of the kitchen."
+                                    }
+            }
+            	        ]
+    }
+
+</script><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/the-ultimate-guide-to-kitchen-vastu-for-a-happy-peaceful-home">The Ultimate Guide to Kitchen Vastu for a Happy &#038; Peaceful Home</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/the-ultimate-guide-to-kitchen-vastu-for-a-happy-peaceful-home/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Significance of Buddha Statue for Home as per Vastu</title>
+		<link>https://www.squareyards.com/blog/significance-of-buddha-statue-for-home-as-per-vastu</link>
+					<comments>https://www.squareyards.com/blog/significance-of-buddha-statue-for-home-as-per-vastu#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:47:39 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=30716</guid>
+
+					<description><![CDATA[<p>You must already know about a Laughing Buddha or a Buddha statue that is commonly used in so many homes. There are several shades and layers to the question if you are seeking the Buddha meaning or planning to install a Buddha statue for home. As per Vastu Shastra guidelines, a smiling Buddha or Laughing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/significance-of-buddha-statue-for-home-as-per-vastu">Significance of Buddha Statue for Home as per Vastu</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">You must already know about a <strong>Laughing Buddha </strong>or a <strong>Buddha statue </strong>that is commonly used in so many homes. There are several shades and layers to the question if you are seeking the <strong>Buddha meaning </strong>or planning to install a <strong>Buddha statue for home</strong>. As per Vastu Shastra guidelines, a <strong>smiling Buddha </strong>or Laughing <strong>Buddha idol</strong> is a sign of prosperity and should be there in each household. It is a symbol of much happiness and may help in infusing more positive vibes into the household. Putting a Laughing <strong>Buddha face</strong>, statue or <strong>Laughing Buddha images </strong>in the right place will go a long way towards infusing suitable cosmic energy while relieving all stress and tension in the bargain.</p>
+<p style="text-align: justify;">Before choosing Laughing or <strong>Peace Buddha images</strong> and choosing <strong>stone Buddha statue</strong>s among those in other materials, you should know the real story behind the legend. <em>Pu-Tai</em> or <em>Hotei</em> is called the Laughing Buddha. The image of Hotei has been made on the basis of the Chinese Zen monk who lived more than 1000 years earlier. Many saw him as a future Buddha owing to his generosity and benevolence. It was on account of his huge protruding belly and iconic smile/laugh that people started calling him as the Laughing Buddha. Getting a <strong>Laughing Buddha statue </strong>is highly auspicious for any home. You should however, keep your <strong>Lord Buddha statue</strong> in a suitable location. It is not considered lucky or auspicious to keep your <strong>marble Buddha statue </strong>or a Buddha statue in any other material outside your house. This is because Vastu Shastra principles clearly state that the living room is the best place for a <strong>Buddha statue for home décor</strong> purposes.</p>
+<h3 style="text-align: justify;"><strong>Keeping the Buddha Statue before the main entrance</strong></h3>
+<p style="text-align: justify;">You may opt to keep your <strong>Laughing Buddha gift </strong>received from a loved one or bought yourself, before the main entrance of your home. Make sure that this stays at the primary entrance. You should ensure that the height is at eye level or slightly higher. You should never look at this from above. For drawing more prosperity and wealth or using what is the <strong>money Laughing Buddha</strong> effect, make sure you have the statue close towards the primary home entrance.</p>
+<p style="text-align: justify;">Apart from Laughing varieties, there are several options available including peaceful motifs, <strong>white Buddha statue</strong>s and other <strong>small Buddha statue</strong>s showcasing the idol in various moods. These include <strong>sleeping Buddha statue</strong>s and even <strong>meditation Buddha images</strong> and postures. Choose carefully.</p>
+<h3 style="text-align: justify;"><strong>Laughing &amp; Meditating Buddha Idol</strong></h3>
+<p style="text-align: justify;">For a peaceful and happy life, get a Laughing Buddha in a meditative state. This will help in relieving stress at home and keep this in the bedroom, prayer or worship room and the study.</p>
+<h3 style="text-align: justify;"><strong>Laughing Buddha with Wo Lu</strong></h3>
+<p style="text-align: justify;">A statue of Laughing Buddha with Wo Lu is essential for safeguarding health. This statue should be present in the eastern direction of the living room or bedroom. This will enhance health of every individual in the household.</p>
+<h3 style="text-align: justify;"><strong>Dragon Tortoise Buddha Statue</strong></h3>
+<p style="text-align: justify;">This statue of the Laughing Buddha positioned upon a dragon tortoise indicates ample strength and power in turn. Bringing this home will help you boost your career and income levels. You can keep this behind your desk at work and it will positively impact your business or professional life.</p>
+<h3 style="text-align: justify;"><strong>Eastern Direction for Laughing Buddha Statues</strong></h3>
+<p style="text-align: justify;">Vastu Shastra mandates keeping Laughing Buddha statues in the eastern direction of the home. This will help in infusing more harmony and joy into any home while nipping arguments and tension in the bud. You can also put a statue on the office or study desk for improving concentration and eliminating mental distractions while combating chances of arguments and quarrels with partners and colleagues at work.</p>
+<h3 style="text-align: justify;"><strong>Laughing Buddha with Gold Coins</strong></h3>
+<p style="text-align: justify;">One of the best Vastu tips is getting a statue of Laughing Buddha with a sack of gold coins on the shoulder. This indicates good luck and happiness for all family members. You may also control any negative energy by putting this in the living room. A golden colored statue will naturally bring more positive vibes into any space.</p>
+<h3 style="text-align: justify;"><strong>Where Shouldn’t You Keep the Laughing Buddha? </strong></h3>
+<p style="text-align: justify;">Laughing Buddha is a worshipped deity and the statue should never be there in the toilet, bathroom and kitchen. Based upon principles of Vastu Shastra, these places are not auspicious for the statue and should be strictly avoided as a result. You should never keep the statue on the floor of the house as well.</p>
+<p><strong>ALSO READ :</strong></p>
+<ul>
+<li class="card-title"><a title="East Facing House Vastu Plan: Know all Details for a Peaceful Life" href="https://www.squareyards.com/blog/east-facing-house-vastu-plan">East Facing House Vastu Plan:&nbsp;</a></li>
+<li class="card-title"><a title="Prayer Room Vastu Shastra Tips For A Peaceful Home" href="https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home">Prayer Room Vastu Shastra Tips For A Peaceful Home</a></li>
+<li class="card-title"><a title="Opening the Vastu Door to prosperity" href="https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity">Opening the Vastu Door to prosperity</a></li>
+<li class="card-title"><a title="Vastu Tips to Ward Off Negativity During COVID-19" href="https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19">Vastu Tips to Ward Off Negativity During COVID-19</a></li>
+<li class="card-title"><a href="https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips" target="_blank" rel="noopener">West Facing House Vastu Plan &amp; Tips</a></li>
+</ul>
+<h3 style="text-align: justify;"><strong>FAQs:</strong></h3>
+
+        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Is a Laughing Buddha lucky?</h2>                <div>
+					                    <p>
+						Of course, the Laughing Buddha is called Hotei by the Chinese and considered highly positive, lucky and auspicious. It is mostly positioned where it faces the door. The big protruding stomach indicates luck, happiness and prosperity. The Laughing Buddha fused with Lord Ganesha is also lucky for the household.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What is the real story of Laughing Buddha?</h2>                <div>
+					                    <p>
+						The image of the Laughing Buddha is based upon a Chinese Zen monk called Hotei or Pu-Tai who lived more than 1, 000 years back. People saw him as a future Buddha owing to his benevolence and generosity. His large belly and smile made him get the epithet of Laughing Buddha.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What is the use of Laughing Buddha?</h2>                <div>
+					                    <p>
+						The Laughing Buddha is used in Vastu and Feng Shui for infusing abundance, prosperity, good luck, good health and success into any area owing to the positive energy of the Laughing Buddha which spreads throughout the household.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What type of Laughing Buddha should be kept at home?</h2>                <div>
+					                    <p>
+						You can keep Laughing Buddha statues which show the deity playing with children, indicating good fortune from the Heavens. A Buddha with a bag or sack of gold coins is a sign of prosperity. A Laughing Buddha with a fan or bowl (indicating the life of a monk) are also prosperous for the home. You can also find Laughing Buddha idols with balls or beads. These are some types of Laughing Buddha statues that you can keep at home.                    </p>
+                </div>
+            </div>
+        </section>
+	
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                    {
+                "@type": "Question",
+                "name": "Is a Laughing Buddha lucky?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Of course, the Laughing Buddha is called Hotei by the Chinese and considered highly positive, lucky and auspicious. It is mostly positioned where it faces the door. The big protruding stomach indicates luck, happiness and prosperity. The Laughing Buddha fused with Lord Ganesha is also lucky for the household."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What is the real story of Laughing Buddha?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The image of the Laughing Buddha is based upon a Chinese Zen monk called Hotei or Pu-Tai who lived more than 1, 000 years back. People saw him as a future Buddha owing to his benevolence and generosity. His large belly and smile made him get the epithet of Laughing Buddha."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What is the use of Laughing Buddha?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The Laughing Buddha is used in Vastu and Feng Shui for infusing abundance, prosperity, good luck, good health and success into any area owing to the positive energy of the Laughing Buddha which spreads throughout the household."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What type of Laughing Buddha should be kept at home?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "You can keep Laughing Buddha statues which show the deity playing with children, indicating good fortune from the Heavens. A Buddha with a bag or sack of gold coins is a sign of prosperity. A Laughing Buddha with a fan or bowl (indicating the life of a monk) are also prosperous for the home. You can also find Laughing Buddha idols with balls or beads. These are some types of Laughing Buddha statues that you can keep at home."
+                                    }
+            }
+            	        ]
+    }
+
+</script><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/significance-of-buddha-statue-for-home-as-per-vastu">Significance of Buddha Statue for Home as per Vastu</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/significance-of-buddha-statue-for-home-as-per-vastu/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>West Facing House Vastu Plan &#038; Tips</title>
+		<link>https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips</link>
+					<comments>https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 08:54:31 +0000</pubDate>
+				<category><![CDATA[Indian Realty Trends]]></category>
+		<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=30701</guid>
+
+					<description><![CDATA[<p>Vastu Shastra while construction of a house has been a part of home architecture designing or planning for years. How can we be sure about the side our house faces? It is the direction that we face while moving out of the main entrance. To ensure that your house is in the right direction according [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips">West Facing House Vastu Plan &#038; Tips</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Vastu Shastra while construction of a house has been a part of home architecture designing or planning for years. How can we be sure about the side our house faces? It is the direction that we face while moving out of the main entrance. To ensure that your house is in the right direction according to Vastu, then you need to contact the right architect. If you are handed over the <strong>west facing house Vastu plan </strong>it indicates that your main entrance is facing towards the west direction. Before construction, ask your architect to hand over your <strong>west facing house plans for 30×40 site as per Vastu</strong>. If you are considering a <strong>west facing house Vastu plan with pooja room </strong>in the right place, here are some tips for you at the end.</p>
+<h3 style="text-align: justify;"><strong>West Facing House Vastu Plan in 2021 </strong></h3>
+<p style="text-align: justify;">Vastu Shastra is an ancient Indian science that ensures peace and prosperity within your home. If your architect hands over the <strong>west facing house Vastu plan</strong>, will you be able to identify the pros and the flaws? You can look online for help for a <strong>west facing house plans for 30×40 site as per Vastu </strong>or <strong>west facing house Vastu plan with pooja room</strong>, and so on.</p>
+<p style="text-align: justify;">Vastu Shastra says there are five basic elements in nature &#8211; energy from air, water, fire, earth, and planets. These energies create a tremendous impact in almost every sector of life like health, relationship, thinking, peace, prosperity, education, marriage, etc. Therefore, if you have already considered a <strong>west facing house Vastu plan 30×40 </strong>slot, then know where and how to construct the rooms, main door, and various other factors.</p>
+<p style="text-align: justify;">The main door to your house plays the most important part in your <strong>west facing house Vastu plan</strong> and it should be facing towards the north-west. For better understanding divide the distance from north-west to south-west corners into nine equal padas or parts. Now, the 5th and 6th padas from the north-west direction is the best one for the entrance, while the 7th, 8th, and 9th padas should be completely avoided as it is the corner of negative energy.</p>
+<p style="text-align: justify;">The puja and the living rooms should be on the northeast side of the house which is the most auspicious corner. The kitchen is preferred to be in the southeast corner. Remember, not to construct a kitchen directly on top or below the bedroom, puja room, and toilet. The children&#8217;s bedroom can be on the west, south, or north-west, the master bedroom in the south-west, and the guest room in the north-west direction. The dining room, overhead water tank, toilet, and study room can be in the west direction. A basement or underground room in the east or northeast direction brings a heavy flow of money. In this direction, you can also plan a swimming pool.</p>
+<p style="text-align: justify;">Wall colors also play an important role in your <strong>west facing house plan as per Vastu</strong>. The ideal colors are yellow, silver, white, and beige. These are neutral tones and attract positive energy from the west. If your house extends more towards the west, then a light bluish shade is preferable to absorb more positive energies. Off-white and cream colors also go well with your <strong>west facing house plan</strong> but avoid too many bright tones. Consider constructing the west and south walls thicker and higher than the north and east walls. You can build an eastern sloping verandah but don&#8217;t constrict the northeast direction.</p>
+<p style="text-align: justify;">West-facing gardens don’t get proper sunlight in the morning, the plants need to withstand the afternoon and summer heat. Shade-loving plants cannot thrive under these conditions. So, you can look for tulips, roses, and Daffodils. These flowers are the best options for your west-facing gardens. To protect you from difficult situations plant heavy trees on the west. You need to provide sufficient space in the east direction and least in the west. This helps in removing great obstacles. On to the north-east direction, a low-level land or ditches is essential.</p>
+<h3 style="text-align: justify;"><strong>Best Vastu Tips for West Facing House </strong></h3>
+<p style="text-align: justify;">West facing houses are the third choice after North and East facing ones. But it bringing bad luck is just a myth and by following the Vastu tips one can bring peace and prosperity to the home.</p>
+<p style="text-align: justify;">Here are a few tips for you,</p>
+<p style="text-align: justify;">Do&#8217;s</p>
+<ol style="text-align: justify;">
+<li>To detect the direction of your house facing, use a magnetic compass.</li>
+<li>Place the main door in 3rd, 4th, 5th, or 6th padas from the northwest.</li>
+<li>Select the rooms properly like the puja room in the northeast corner, while the kitchen in the southeast.</li>
+<li>Bedrooms play an important role too. The Master bedroom should be on the south-west, while the children&#8217;s bedroom can be on the south, west, and north-west.</li>
+<li>If you are having a guest bedroom then place it in the northwest direction.</li>
+<li>Make the walls thicker and higher on the south and west corners than north and east.</li>
+<li>Make wooden doors for the pooja room and the deities should face away from the main entrance.</li>
+<li>In Front of your main entrance, plant a citrus plant and it will rejuvenate your house.</li>
+<li>Make at least one balcony towards the east.</li>
+<li>Use bright lights in your house.</li>
+<li>Ceilings should be free from cuts and irregular carvings to create a balanced life.</li>
+<li>Mirrors should face north or east to remove negative energies from your house.</li>
+<li>Use light colour curtains in the bedroom, and dark colors in the living room. Heavy and dark colored curtains are preferred on the negative corners of the house.</li>
+<li>The heating appliances of the kitchen should be placed in the southeast direction. Fix a sink in L pattern on to the northern direction.</li>
+<li>Use neutral colors on the walls of your home.</li>
+</ol>
+<p style="text-align: justify;">Don&#8217;ts</p>
+<ol style="text-align: justify;">
+<li>Avoid using dark wall paints.</li>
+<li>Avoid placing mirrors in the bedrooms.</li>
+<li>Don&#8217;t use damaged and dim lights in your home.</li>
+<li>Don&#8217;t place the wrong curtain in the wrong zones or will lead to several diseases or problems in life.</li>
+<li>Avoid a plot or house if it is extended more towards the south or south-west direction.</li>
+<li>Avoid a bore well, water tank, or septic tank in the southwest corner.</li>
+<li>Don&#8217;t sleep directly below any beam or wall partition.</li>
+<li>Avoid placing your bed in such a direction that your feet point towards the bedroom door while sleeping.</li>
+<li>Avoid any large objects like trees or electric poles blocking the main entrance.</li>
+<li>Don&#8217;t purchase a plot that slopes from north to south. It results in financial loss.</li>
+<li>Avoid fountains in your bedroom. It affects relationships.</li>
+</ol>
+<h3 style="text-align: justify;"><strong>19+ Vastu Tips for West Facing House</strong></h3>
+<ol style="text-align: justify;">
+<li>The main door should face slightly towards the northwest direction or in the middle. But avoid the southwest direction.</li>
+<li>If you are entering from the western side of your home, place an idol or a deity&#8217;s picture on the western side facing east.</li>
+<li>The puja room and the living room should be constructed on the northeast corner. It is the most auspicious corner.</li>
+<li>The kitchen should be in the southeast direction. Avoid construction of the kitchen over or below the bedroom, puja room, and toilet.</li>
+<li>The master bedroom should be in the southwest direction. In the case of a multi-level house, it should be on the top floor.</li>
+<li>The children&#8217;s bedroom can be in the west, south, or northwest direction.</li>
+<li>The guest’s bedroom is preferred to be in the northwest direction.</li>
+<li>The study room, dining hall, overhead water tank, and toilet can be in the west direction.</li>
+<li>Keep the total number of doors and windows equal.</li>
+<li>Try adding more windows in the north and east directions.</li>
+<li>Don&#8217;t obstruct the sunlight from entering through your west side windows.</li>
+<li>Avoid placing the staircase in the northeast zone. The total number of stairs should be odd.</li>
+<li>The colour tone of your wall should be neutral. Prefer white, silver, beige, yellow, light blue, off-white and crème.</li>
+<li>Don&#8217;t use too many bright tones as your home wall colour.</li>
+<li>The walls on the west and south corners should be made thicker than the ones in the north and east directions.</li>
+<li>Avoid placing dustbins or broken furniture near the main entrance of your house.</li>
+<li>Avoid placing mirrors in your bedroom. In case you are having a dressing table in the bedroom then check, it shouldn&#8217;t face the north or east side.</li>
+<li>Mirrors should be placed more than 4 to 5 feet above the floor.</li>
+<li>Your west-facing gardens will look beautiful with tulips, roses, and daffodils. As the plants need to stand the scorching heat of the sun in the afternoon and during summers. So it becomes difficult for all plants to survive.</li>
+<li>If you are buying a west-facing flat or a plot, avoid buying if it extends more towards the south or south-west corners and also if it is higher in the north than the south corner.</li>
+</ol>
+<p style="text-align: justify;">A west facing house gets the maximum warmth and light from the evening sun. There is a belief that these houses bring more wealth and prosperity. Most interestingly, you will have no enemies at your workplace or in your society. Politicians, business owners, religious preachers or leaders, and teachers can purchase a west-facing plot or house. For youngsters, these houses bring energy and enjoyment.</p>
+<h3><strong>ALSO READ :</strong></h3>
+<ul>
+<li class="card-title"><a title="East Facing House Vastu Plan: Know all Details for a Peaceful Life" href="https://www.squareyards.com/blog/east-facing-house-vastu-plan">East Facing House Vastu Plan:&nbsp;</a></li>
+<li class="card-title"><a title="Prayer Room Vastu Shastra Tips For A Peaceful Home" href="https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home">Prayer Room Vastu Shastra Tips For A Peaceful Home</a></li>
+<li class="card-title"><a title="Opening the Vastu Door to prosperity" href="https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity">Opening the Vastu Door to prosperity</a></li>
+<li class="card-title"><a title="Vastu Tips to Ward Off Negativity During COVID-19" href="https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19">Vastu Tips to Ward Off Negativity During COVID-19</a></li>
+<li class="card-title"><a title="Internal Staircase Vastu Principles: Some basic dos and don’ts" href="https://www.squareyards.com/blog/internal-staircase-vastu">Internal Staircase Vastu Principles: Some basic dos and don’ts</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips">West Facing House Vastu Plan &#038; Tips</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/west-facing-house-vastu-plan-tips/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>East Facing House Vastu Plan: Know all Details for a Peaceful Life</title>
+		<link>https://www.squareyards.com/blog/east-facing-house-vastu-plan</link>
+					<comments>https://www.squareyards.com/blog/east-facing-house-vastu-plan#respond</comments>
+		
+		<dc:creator><![CDATA[Resident Editor]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 08:39:00 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<category><![CDATA[east facing 3 bedroom house plans as per vastu]]></category>
+		<category><![CDATA[east facing duplex house plans per vastu]]></category>
+		<category><![CDATA[east facing house plan as per vastu]]></category>
+		<category><![CDATA[east facing house vastu plan 30x40]]></category>
+		<category><![CDATA[east facing house vastu plan with pooja room]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=20265</guid>
+
+					<description><![CDATA[<p>Thinking about availing of the right East Facing House Vastu Plan? In reality, east facing house Vastu is not that difficult to achieve, since this is one of the more prosperous and favored directions for a property. An east facing house should first be clearly defined, i.e. what is meant by it being east facing. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/east-facing-house-vastu-plan">East Facing House Vastu Plan: Know all Details for a Peaceful Life</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1080" height="755" class="wp-image-25638" src="https://www.squareyards.com/blog/wp-content/uploads/2020/12/East-Facing-House-Vastu-Plan.jpg" alt="" srcset="https://www.squareyards.com/blog/wp-content/uploads/2020/12/East-Facing-House-Vastu-Plan.jpg 1080w, https://www.squareyards.com/blog/wp-content/uploads/2020/12/East-Facing-House-Vastu-Plan-300x210.jpg 300w, https://www.squareyards.com/blog/wp-content/uploads/2020/12/East-Facing-House-Vastu-Plan-1024x716.jpg 1024w, https://www.squareyards.com/blog/wp-content/uploads/2020/12/East-Facing-House-Vastu-Plan-768x537.jpg 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
+</div>
+
+<p style="text-align: justify;">Thinking about availing of the right <strong>East Facing House Vastu Plan</strong>? In reality, <strong>east facing house Vastu </strong>is not that difficult to achieve, since this is one of the more prosperous and favored directions for a property. An east facing house should first be clearly defined, i.e. what is meant by it being east facing. If you are within the east facing house, in front of the entrance door, it is the direction where you are facing while coming out from the property. If you face towards the east while exiting your home, you will naturally have an east face house plans.</p>
+<p style="text-align: justify;">Wondering whether an 30&#215;40 east-facing house vastu plan will be good for you? It is believed that houses that are more spacious towards the east direction will be blessed with abundant luck and good fortune. Homes that are broader and at a lower level in the east than any other direction will naturally be taken as the luckiest ones. Now there are several other Vastu aspects worth considering. People often search for southeast corner Vastu rules and southeast in Marathi along with how to find east direction.</p>
+<p style="text-align: justify;">Many may search for 3 BHK east facing house plans as per Vastu or north east in Kannada and north east in Marathi. If you are in doubt, simply look up the India map with directions east-west north-south and you will understand automatically. People also search for things like sun rises in which direction in India and Manglik meaning in Kannada among other aspects. However, there is a lot of debate regarding the efficacy of an east-facing house Vastu plan.</p>
+<p>Purchasing a house in India can be a daunting task. Several factors come into consideration when one is engaging in buying property and one of the most crucial of them is its compliance with Vastu Shastra. North-facing homes are considered luckier in comparison to south, west, or east-facing homes but are usually more expensive due to the demand. After north, the second-best is <strong>east-facing houses as per Vastu</strong>. Now whether an <strong>east-facing house is good or bad</strong>, Vastu Shastra has also come up with many tips to make it more favourable for residents. People who believe in this science are willing to pay a higher price for an <strong>East-facing Vastu plan</strong> house. Whether it is worth the cost or not, this article will help you decide. </p>
+<p><strong>What is Vastu Shastra?</strong></p>
+<p>Vastu Shastra is a traditional science that originated in India and describes the principles of ground preparation, space, direction, layout, measurements, and design of a property. Vastu means home and Shastra means the study of science in Sanskrit. Many people believe that <strong>East facing house Vastu</strong> if implemented correctly can bring luck, success, and happiness for those living in it. </p>
+<p><strong>What are East Facing Houses?</strong></p>
+<p>To not get confused about the orientation and direction of such a house, a good tip to recognize and the east-facing house is deciphering if the entrance of the house faces towards the east direction. In other words, if you are facing the east side when inside the house while walking out of the house, then it is an east-facing house. </p>
+<p><strong>Are East-Facing Houses Lucky? </strong></p>
+<p>It is widely believed that east-facing houses are all auspicious. However, this is not the case. While east-facing houses are favourable, not all have equally sound attributes in compliance with Vastu Shastra. While direction and orientation play a crucial role, essentially, homes that are broad as well as at a lower level are considered the luckiest. Typically, such homes are more suitable in buildings, multi-storey apartments, and individual spaces. </p>
+<p><strong>Vastu Tips For East-Facing Homes </strong></p>
+<p>One of the most essential factors to consider is your <strong>East-facing home Vastu plan. </strong>While such homes are generally auspicious in Vastu terms, there are a few tips and tricks that can be tweaked and incorporated to make them more favorable. While for individual bungalows and villas, east-facing is not as desired, they work great for multi-storey apartments and building flats. Some Vastu tips and guidelines to follow for east-facing houses that will help you are stated below.</p>
+<ul>
+<li>Use a magnetic compass to measure the accurate east direction of the plot. </li>
+<li>An <strong>east-facing house Vastu plan with pooja room should</strong> have the said room in the northeast zone of the space. This is considered auspicious and brings in serenity. </li>
+<li>If there is a staircase in your house, the best direction for it is on the south or west. </li>
+<li><strong>Living rooms in an east-facing house should</strong> be placed in the northeast direction for bringing out the ultimate result as per Vastu norms. </li>
+<li>A master bedroom should have a southwest direction for optimum Vastu compliance. </li>
+<li>Ideally, guest bedrooms should be placed in the north-west direction</li>
+<li>In case a student lives in this house, you should place a crystal globe in the northeast direction. </li>
+<li>The south and west direction walls should be thicker and longer than the north and east direction walls. </li>
+<li>Placement of the kitchens is an important aspect. The kitchen should strategically be placed in the northwest or southeast direction of the house. </li>
+<li>The person who is cooking should be facing the east direction in a south-east facing kitchen and west in a north-west facing kitchen. </li>
+<li>Balconies, open atriums, vestibules, and all other open spaces should be placed in the east of the house. This ensures good ventilation along with positive energy and strong vibes. </li>
+<li>Salt is considered a universal healer hence it is advised that rock salt should be placed in all corners of the house. </li>
+<li>Pyramids are a popular Vastu weapon and can easily be purchased in the market and placed in areas such as kitchens, bedrooms, living rooms, and practically anywhere as per the guidance of your Vastu consultant. This avoids discrepancies if any, in the home. </li>
+</ul>
+<p><strong>Vastu for East-Facing Main Entrance Doors</strong></p>
+<p>The main entrance door is a crucial factor and should be placed exactly in the middle. Ensure that it is not placed in either the southeast or northeast directions as that will hamper the harmony of the overall vibe. Tips of <strong>Vastu for east-facing main doors</strong> are mentioned here.</p>
+<ol>
+<li>In case the entrance is in the northeast corner, ensure that the main door is not in contact with the northeast corner. Leave a minimum 6-inch gap between the door and the wall. </li>
+<li>In the case of a south-east facing entrance, you can place three Vastu pyramids, one on the top of the main door in the center and two on either side. </li>
+<li>You can install a Siddha Shukra Tantra to get rid of all the negative energy in the room. </li>
+<li>Use a Siddha Vastu Kalash to boost the positive energy which can be generated from the corner of the house.</li>
+</ol>
+<p><strong>Plan for an East-Facing Vastu House </strong></p>
+<p>For those constructing an east-facing home, it is pertinent to adhere to Vastu Shastra to facilitate positive energy. While many interior designers and architects follow basic Vastu, for those who want in-depth compliance with the science, Vastu Shastra experts can also be consulted. The following table demonstrates in what direction your east-facing home should be designed as per Vastu stated norms. </p>
+<table width="609">
+<tbody>
+<tr>
+<td width="75">
+<p><strong>S. No. </strong></p>
+</td>
+<td width="269">
+<p><strong>Type of Room</strong></p>
+</td>
+<td width="265">
+<p><strong>Preferred direction as per Vastu Shastra</strong></p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>1</p>
+</td>
+<td width="269">
+<p>Guest room, kitchen, living room</p>
+</td>
+<td width="265">
+<p>North-West</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>2</p>
+</td>
+<td width="269">
+<p>Drawing room, living room, office</p>
+</td>
+<td width="265">
+<p>North</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>3</p>
+</td>
+<td width="269">
+<p>Pooja Room</p>
+</td>
+<td width="265">
+<p>North-East</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>4</p>
+</td>
+<td width="269">
+<p>Study room, dining room, children&#8217;s room</p>
+</td>
+<td width="265">
+<p>West</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>5</p>
+</td>
+<td width="269">
+<p>Verandah, atrium, entrance lobby, balconies and other open spaces</p>
+</td>
+<td width="265">
+<p>East</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>6</p>
+</td>
+<td width="269">
+<p>Staircases, overhead tanks</p>
+</td>
+<td width="265">
+<p>South</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>7</p>
+</td>
+<td width="269">
+<p>Kitchen, bathrooms, staircases</p>
+</td>
+<td width="265">
+<p>South-East</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>8</p>
+</td>
+<td width="269">
+<p>Storerooms, garages, master bedrooms</p>
+</td>
+<td width="265">
+<p>South-West</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p>9</p>
+</td>
+<td width="269">
+<p>Main doors</p>
+</td>
+<td width="265">
+<p>Right in the Centre</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong> </strong><strong>Va</strong><strong>stu Don&#8217;ts for East-Facing Homes </strong></p>
+<p>When designing a Vastu compliant east-facing house, make note of the following mentioned don&#8217;ts that should be avoided. To make your life easier, have a look at the list below of <strong>things to avoid in east-facing homes</strong>. </p>
+<ul>
+<li>No septic tanks should be placed in the northeast corner of the home. </li>
+<li>Placing a kitchen in the northeast direction is a huge no. </li>
+<li>Staircases if any, should not be constructed in the northeast direction. </li>
+<li>Garages if any, should not be placed in the northeast direction. </li>
+<li>No large trees should be planted in the north as well as the east direction. </li>
+<li>In bedrooms, it is not advisable to place a mirror right in front of the bed so that your reflection is not visible when you are in bed. </li>
+<li>The whole premises should not have any slope from the north to south direction. </li>
+<li>No heavy blocking or packing should be in the northeast direction. </li>
+<li>Main entrances should not have any object blocking them such as poles, trees, artifacts, large statues, etc. </li>
+<li>No clutter or dirt-related items such as trash cans should be placed in the north or the northeast corner of the house. </li>
+</ul>
+<p>By considering the above-mentioned points, you will avoid negativity, bad ventilation, lack of peace, and the overall offerings of Vastu Shastra. </p>
+<p><strong>The Importance of Vastu Shastra for Every Room </strong></p>
+<p>While there is a general belief and strategy related to Vastu Shastra, every room has its importance and can differ in terms of design and placement. While some can be tweaked in marginal ways, a complete opposite of following Vastu rules can lead to adverse circumstances, putting the peace of the entire house in jeopardy. Let us take a look at the following mentioned important rooms of a home and how you can imbibe Vastu into them. </p>
+<p><strong>Master Bedrooms </strong></p>
+<p>Ø <strong>Master bedrooms Vastu for east-facing houses</strong> should ideally be planned in the southwest direction.</p>
+<p>Ø The bed should be placed on the south or west side of the walls, ensuring that the head lies in the west or south direction and the legs are in the east or north direction. </p>
+<p>Ø Changing rooms within the master bedroom should be on the north or west side of the bedroom. </p>
+<p>Ø The master bathroom should not be facing the bed directly and the entrance door to the bathroom should always remain closed. </p>
+<p>Ø No mirror should be placed right in front of the bed or on any surface that might allow for your reflection to show when you are on it. </p>
+<p><strong>Living Rooms </strong></p>
+<p>Ø Living room for Vastu east-facing houses should be in the north-east direction. This is considered auspicious. </p>
+<p>Ø The walls of the living room which are on the north and east sides should be marginally thinner as well as shorter than the others. This is expected to help in bringing success in both, professional as well as personal lives. </p>
+<p><strong>Pooja Rooms </strong></p>
+<p>Ø Pooja room Vastu in the east-facing house is typically supposed to be in the northeast direction. As this is the most important room for religious people, no alterations should be made for its placement. </p>
+<p><strong>Kitchens</strong></p>
+<p>Ø Kitchens are an important part of the house and need to be placed in the southeast or northwest direction of the house. </p>
+<p>While the above-mentioned rooms are the main ones, other rooms such as guest rooms, balconies, study rooms, children&#8217;s rooms, etc. also each have their own sets of rules as per Vastu Shastra and have been mentioned in the table in the segment above. Every corner of every room in an east-facing house should be adhered to and followed in accordance with Vastu Shashtra.</p>
+<p><strong>Paints colours for east-facing rooms</strong></p>
+<p>In east-facing rooms, there is ample sunlight in the morning and artificial lights will be required in the afternoon and thereafter. Before selecting the colour for your east-facing rooms or house, try to visualize them with both artificial and natural light. Usually, hues of blue and green are the recommended shades for east-facing rooms. A shade of green is all about adding a fresh vibe and blue is sure to make your room look cool.</p>
+<p>Each house is as unique as the individual that buys it. While not everyone is suitable for each other, neither are houses. In an <strong>East-facing house, sunlight</strong> is a prominent factor and relates directly to power, authority, and dominance of sort. The east direction is favourable and demonstrates the representation of protection, agility, focus, and creativity. When asking the question <strong>of who are suitable for east-facing houses</strong>, the favourable winners of the spectrum are government jobholders, businessmen, and those in the field of creativity. Regardless, east-facing houses are popular for those looking for Vastu compliant homes due to their ventilation, sunlight, and overall airy atmosphere. If designed properly, they can create a life full of love, joy, and harmony and improve the general standard of living. </p>
+<p style="text-align: justify;"><strong>East facing house Vastu plan with Pooja room </strong></p>
+<p style="text-align: justify;">You will find several available options for <strong>east facing house Vastu plan with pooja room </strong>online. These are different from <strong>north east facing house Vastu </strong>plans or any <strong>north east facing house</strong>. Here are some important pointers that you should keep in mind above all else:</p>
+<ul style="text-align: justify;">
+<li>While considering an <strong>East facing house Vastu plan</strong>, remember that east-facing properties are usually suitable for multistoried apartments and buildings. Independent houses and bungalows will not have this <strong>east facing house plan as per Vastu</strong>. They will have varying plans for <strong>east facing house Vastu plan with pooja room</strong>.</li>
+<li>Check out north or <strong>south east facing house</strong> plans as per Vastu if they fit your requirements. <strong>South east facing house Vastu </strong>or north east Vastu may be suitable in scenarios when your home is not fully facing the east.</li>
+<li>If you have a home which faces east, take precautions with the entrance. Make sure that the entrance is exactly at the middle and not in the north east or south east. These two corners are unlucky for main door placement in case of east facing properties.</li>
+<li>If the entrance is towards the north east, ensure that the main door does not touch the north eastern corner. Leave at least ½ ft or 6 inches as the gap between the main door and wall.</li>
+<li>If you have an entrance that faces south east, put three Vastu pyramids, one on each door side and the third on top of the main door. You may also put a Swastik, Om and Trishul symbol on both door sides.</li>
+<li>Install a Siddha Shukra Yantra for doing away with negative energy from your home.</li>
+<li>A Siddha Vastu Kalash may be used for maximizing positive energy generated within the home.</li>
+</ul>
+<p style="text-align: justify;"><strong>East facing duplex house plans per Vastu </strong></p>
+<p style="text-align: justify;">You should carefully consider <strong>pooja room Vastu for east facing house</strong>s after consulting experts and doing your homework. You will find numerous plans available for <strong>east facing house Vastu </strong>if you are building or moving to a duplex. The duplex <strong>Vastu house plans east facing house </strong>may be readily obtained online without any hassles whatsoever.</p>
+<p style="text-align: justify;">Here are some points worth noting for <strong>Vastu east facing house plans with Pooja room</strong>:</p>
+<ul style="text-align: justify;">
+<li>You should have a Vastu-compliant house plan for your east-facing duplex unit.</li>
+<li>Consult a planner, architect or expert for a customized east facing plan as per Vastu requirements.</li>
+<li>Have the main doors in the 5<sup>th</sup> pada if the house faces east. This will draw more fame, respect and recognition. If the fifth pada is slightly smaller, you can use the sixth, third, fourth or seventh padas in question.</li>
+<li>Refrain from using the second, first, ninth and eighth padas for putting the main door.</li>
+<li>A master bedroom should ideally be in the south-west for these homes.</li>
+<li>Put the bed in the west or south wall of the room while the head should lie in the west or south direction as well. The legs should be in the east or north. The best place for changing room here should be towards the north or western side of the room. The bathroom should not be facing the bed and the door should remain closed all the time.</li>
+<li>Walls in east and north should be slightly smaller and thinner than walls in the west and south.</li>
+<li>Kitchen is ideally positioned in north west or south east.</li>
+<li>Kitchen should have you facing east or west while cooking.</li>
+<li>The pooja and living room should be towards the north east.</li>
+<li>You can have a guest room towards the north west.</li>
+<li>Plots sloping to the north from south are good in this regard.</li>
+<li>The north east corner should not have any septic tanks, toilets/bathrooms and bedrooms.</li>
+<li>Big trees should be avoided for the eastern and northern side of the home.</li>
+<li>Keep no dustbins, dirt and clutter in the north east or northern corner.</li>
+<li>Open space should be more towards the northern and eastern sides of the property.</li>
+<li>Do not buy property attached to land in the west or south directions.</li>
+<li>Property with attached plot in the northern direction is considered luckier and brings more fortune and prosperity alike.</li>
+<li>If the house has any student, put a crystal globe towards the north east direction.</li>
+<li>Purify your home with mountain salt periodically for enhancing energy and positive vibes.</li>
+</ul>
+<p style="text-align: justify;">Some other interesting things that you should know include the suitability of east facing houses for people. Vastu principles state that the Sun is the dominant force for any east facing property. They are ideal for people in jobs or careers linked to power, authority and overall elegance. The eastern direction is also indicative of creativity, agility, air, protection and focus. East facing homes are ideal for people in government positions and offices along with businessmen or businesswomen. Musicians, artists and other creative professionals like dancers will also benefit. When doing up an east-facing room, make sure that it gets ample natural light every morning and use artificial light later on in the day as well. Choose colors like green and blue in this case. Blue and light grey tint make for an excellent combination along with aqua and light green hues alike. Neutral tones such as light pink and white are great options as well.</p>
+<p style="text-align: justify;">These are some aspects that you should always keep in mind while planning or building your east facing house. The Vastu tips will help you embrace better living while avoiding several issues along the journey as well. You will get several plans which are readily available online for your perusal.</p>
+<p><strong>FAQs</strong></p>
+<ol>
+<li><strong> What are the recommended wall paint colours for east-facing rooms? </strong></li>
+</ol>
+<p>After visualizing the room in natural as well as artificial light, the ideal colours for such rooms are different shades of blue, green, grey, and aqua. </p>
+<ol start="2">
+<li><strong> What type of plants are considered lucky for east-facing houses? </strong></li>
+</ol>
+<p>Lucky <strong>plants for east-facing homes</strong> are aloe vera, daffodils, citrus plants, money plants, neem plants, basil plants, lucky bamboo, a banana plant, and plum blossoms to name a few. </p>
+<ol start="3">
+<li><strong> Is an east-facing house the best option as per Vastu compliance? </strong></li>
+</ol>
+<p>After north-facing houses, east-facing houses are the second-best option for Vastu compliant homes. </p>
+<ol start="4">
+<li><strong> Can lack Vastu Shastra cause disruptions to personal lives? </strong></li>
+</ol>
+<p>Vastu Shastra is a study of layout, design, ventilation, and mainly directions of a property. It is a practical approach to avoid destruction, disturbances and overall aids in creating a spacious and free-flowing atmosphere. Naturally, when the harmony of this is affected, it can cause disruptions in the personal lives of those living there. </p>
+<ol start="5">
+<li><strong> In case there is no possibility of placing the main entrance door in the center, what is the best option? </strong></li>
+</ol>
+<p>You can then ensure that you leave a gap on the corner of the wall of about half a foot and then start the main entrance door. It May is not ideal, but sometimes, due to some circumstances, doors cannot be changed so this option works out.</p>
+        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>
+Is an east facing house good?</h2>                <div>
+					                    <p>
+						East is symbolic of life, energy and light. This is because the sun rises from the east. As a result, this is the reason that east facing houses are considered really good and lucky for their occupants.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Which is the best direction for house to face?</h2>                <div>
+					                    <p>
+						The direction of your house or the direction that it faces is the direction that you face while you are coming out from your house. The main entrance direction, based upon Vastu principles, is the crucial and vital aspect while you are planning a home. You should ensure that the entry falls somewhere around the north east direction or east direction along with north west. These are the three best directions for entrances to homes.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What is east entrance in Vastu?</h2>                <div>
+					                    <p>
+						If you are within the house, in front of the entrance door, it is the direction that you will be facing while coming out from the home. If you are facing east while coming out from your home through the main door, then you will have an east facing property.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>What does an east-facing house mean?</h2>                <div>
+					                    <p>
+						It means that the direction of the compass is east when you are coming out from your home, i.e. the house faces towards the east direction.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>Is an east-facing house good as per Vastu?</h2>                <div>
+					                    <p>
+						East is considered to be a good symbol of light, life and energy which is positive. The sun rises from the East and hence it is taken to be an extremely lucky direction. The east facing house will be lucky for its occupants.                    </p>
+                </div>
+            </div>
+        </section>
+	
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                    {
+                "@type": "Question",
+                "name": "
+Is an east facing house good?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "East is symbolic of life, energy and light. This is because the sun rises from the east. As a result, this is the reason that east facing houses are considered really good and lucky for their occupants."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Which is the best direction for house to face?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The direction of your house or the direction that it faces is the direction that you face while you are coming out from your house. The main entrance direction, based upon Vastu principles, is the crucial and vital aspect while you are planning a home. You should ensure that the entry falls somewhere around the north east direction or east direction along with north west. These are the three best directions for entrances to homes."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What is east entrance in Vastu?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "If you are within the house, in front of the entrance door, it is the direction that you will be facing while coming out from the home. If you are facing east while coming out from your home through the main door, then you will have an east facing property."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "What does an east-facing house mean?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "It means that the direction of the compass is east when you are coming out from your home, i.e. the house faces towards the east direction."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "Is an east-facing house good as per Vastu?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "East is considered to be a good symbol of light, life and energy which is positive. The sun rises from the East and hence it is taken to be an extremely lucky direction. The east facing house will be lucky for its occupants."
+                                    }
+            }
+            	        ]
+    }
+
+</script>
+<p>Also read :</p>
+<p><a href="https://www.squareyards.com/blog/north-facing-house-vastu-plan" target="_blank" rel="noopener">North Facing House Vastu Plan for a Peaceful Life</a><br /><a href="https://www.squareyards.com/blog/west-facing-house-vastu-plans" target="_blank" rel="noopener">West Facing House Vastu Plans for a Peaceful Life</a><br /><a href="https://www.squareyards.com/blog/south-facing-house-vastu-plans" target="_blank" rel="noopener">How to Improve Vastu for a South-facing Home?</a><br /><a href="https://www.squareyards.com/blog/south-facing-house-vastu" target="_blank" rel="noopener">South Facing House Vastu ideas that you can use</a></p><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/east-facing-house-vastu-plan">East Facing House Vastu Plan: Know all Details for a Peaceful Life</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/east-facing-house-vastu-plan/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Prayer Room Vastu Shastra Tips For A Peaceful Home</title>
+		<link>https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home</link>
+					<comments>https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Sat, 19 Jun 2021 08:21:06 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=30534</guid>
+
+					<description><![CDATA[<p>Prayer Room Vastu Shastra Tips For A Peaceful Home Your prayer room must not only be a sacred space, but it should also exude positive energy that will help you relax and meditate. When the temple or prayer area is properly constructed as per Vastu Shastra, it can provide the home and its inhabitant’s health, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home">Prayer Room Vastu Shastra Tips For A Peaceful Home</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;"><strong>Prayer Room Vastu Shastra Tips For A Peaceful Home</strong></p>
+<p style="text-align: justify;">Your prayer room must not only be a sacred space, but it should also exude positive energy that will help you relax and meditate. When the <strong>temple</strong> or <strong>prayer area</strong> is properly constructed as per <strong>Vastu Shastra</strong>, it can provide the home and its inhabitant’s health, wealth, and happiness. While every Indian household has a puja room, have you ever pondered why some give off a positive feeling as soon as you walk in, while others don&#8217;t? The answer might be because only a few individuals are familiar with <strong>Vastu</strong> concepts. To make things easier for you, we&#8217;ve compiled a list of the most significant puja room Vastu guidelines for your home. Continue reading to learn more.</p>
+<p style="text-align: justify;"><strong>What is the best way to construct a temple at home, as per Vastu?</strong></p>
+<p style="text-align: justify;">When erecting the temple, avoid placing it straight on the ground. Well, Nitien Parmar of VastuPlus suggests keeping it on a higher platform or pedestal. Either stonework or timber should be used to construct the temple. Glass or acrylic temples should be avoided. Do not overcrowd the temple. Make sure you don&#8217;t have several idols of the same Deity in the temple, whether they&#8217;re sitting or standing. “Idols or pictures put in the temple should not be broken or torn, as this is regarded as unlucky,” Parmar of VastuPlus advises.</p>
+<p style="text-align: justify;">Pujas ought to be performed wherever the temple is located. The entire family usually prays together during festivities. As a result, make sure there is adequate room for the entire family to assemble and pray. The aura in the temple area should be healthy and balanced. So make it tidy and free of dust and insects, and don&#8217;t overcrowd the area with too many embellishments.</p>
+<p style="text-align: justify;"><strong>What is the right direction to locate your puja room at home?</strong></p>
+<p style="text-align: justify;">Your puja room&#8217;s placement is essential in determining its auspicious ambiance. The best direction is north-east, followed by east and north. If you&#8217;re building a new house and have discretion over where your puja room is located, we highly advise you to avoid the basement or upper levels. It&#8217;s ideal if your prayer room is built on the ground level.</p>
+<p style="text-align: justify;">You must be wondering what the logic behind this is. Vastu Shastra promotes the north-east direction to maximize solar energy harvesting. Furthermore, the earth is also tilted towards the northeast direction. As a result, the northeast direction is considered auspicious since it allows the prayer area to draw all of the home&#8217;s energy towards it and then propel it forward. Not only that but it is said that Jupiter is the lord of the same direction. Consequently, this direction is referred to as <strong>Ishan Kona</strong> or Home of Jupiter.</p>
+<p style="text-align: justify;"><strong>What is the ideal way to design your puja room?</strong></p>
+<p style="text-align: justify;">The ceiling in your puja room should be low. A pyramid-shaped upper surface will help to create a peaceful environment. If there is enough room, a threshold and two-door entry must be taken into consideration. According to Vastu Shastra, installing only one door is not recommended. This is due to the fact that a single, outward-opening door might get in the way of the person praying, disrupting their state of mind. If you don&#8217;t have enough space or money to construct a door, simply drape a curtain to function as a temporary doorway.</p>
+<p style="text-align: justify;">Since the puja room is compact, the lower ceiling, along with the pyramid-shaped structure offers equilibrium and makes it easier to enter a spiritual experience. The purpose of a threshold is to keep bugs and pests out of sacred areas.</p>
+<p style="text-align: justify;"><strong>What is the best way to place idols in the temple?</strong></p>
+<p style="text-align: justify;">It&#8217;s time to put in your idols once your puja room&#8217;s design and construction are complete. A few inches away from the wall and at least six inches from the floor would be preferable. Deceased people&#8217;s portraits and artworks showing violence have no place in your puja room.</p>
+<p style="text-align: justify;">To maintain consistent air movement around the idol, it should be placed away from the wall. This also helps to surround the deity with the scent of the incense sticks.</p>
+<p style="text-align: justify;"><strong>How should I store things in the puja room?</strong></p>
+<p style="text-align: justify;">Are you unsure about where to put all of your religious literature, candles, and puja items? Storage must always face south-east. Why you may ask? Storage should face south-east to ensure that sunlight is not obstructed. Additionally, there should be no storage above the deity. All storage must be placed under the idols. Disrespect is shown by storing items above idols. It also has an impact on the free movement of energy and light. This is not only helpful in terms of Vastu, but it is also practical because items placed at ground level are easily accessible.</p>
+<p style="text-align: justify;"><strong>What should be the colour of the puja room?</strong></p>
+<p style="text-align: justify;">The colour of the prayer room should be according to the Vastu guidelines. Vastu Shastra recommends subdued colours for maintaining the serenity of a puja area. Whites, soft blues, and pastel yellow are all appropriate colours. In a puja room, gloomy colours should be avoided since these will not create a peaceful atmosphere in a place of worship and can be distracting instead. The majority of temple units in Indian houses, however, are constructed of dark wood. This is a Vastu Dosha that prevents divinity from entering your household. If you already have a dark-colored puja unit that you don&#8217;t want to replace, consider painting the wall behind it with a bright colour. To counteract the gloomy colour, the bright colour offers enough illumination to the unit.</p>
+<p style="text-align: justify;">Likewise, for the flooring of your puja area, choose white marble or any light-colored marble tiling.</p>
+<p style="text-align: justify;"><strong>What should be the lighting of the puja room?</strong></p>
+<p style="text-align: justify;">What&#8217;s not to like about a space that&#8217;s bright? And, more importantly, a bright puja room? As it will be the smallest room in your house, it will require bright lighting. With a window facing northeast, light up your prayer area with Diyas. If this isn&#8217;t possible, make do with plenty of artificial lighting.</p>
+<p style="text-align: justify;">Not only will your puja room be bright, but you&#8217;ll also have enough air and be able to sit comfortably while praying for lengthy periods of time if you have a north-east facing window.</p>
+<p style="text-align: justify;"><strong>Have a Small Apartment? Here are some tips for the ideal prayer room.</strong></p>
+<p style="text-align: justify;">People in today&#8217;s world of nuclear families and small flats don&#8217;t have the luxury of devoting an entire room to praying. The trend for compact fully prepared puja mandaps that can be mounted on walls and hallways has increased as a result.</p>
+<p style="text-align: justify;"><strong>Living Room</strong></p>
+<p style="text-align: justify;">The greatest spot to install a puja unit in a small flat is in the living room. If you have empty shelves in your entertainment unit, you may create a separate puja room by decorating a tiny section. For those who spend long hours in meditation and prayer, however, solitude and focus will continue to be a problem.</p>
+<p style="text-align: justify;"><strong>Kitchen</strong></p>
+<p style="text-align: justify;">A kitchen cabinet may be customized to function as a miniature temple. It is advised to make the cabinet door have chiseled edges and shapely openings on its surface so that smoke can be properly dispersed when diyas and fragrance sticks are lighted.</p>
+<p style="text-align: justify;"><strong>Corners</strong></p>
+<p style="text-align: justify;">Placing up a series of elegant pedestals so that the idols are a few inches above the ground level may quickly transform an empty corner of the dining room into a puja space. Small lights can be placed above the idols to brighten the prayer area. If you need seclusion, hang a little curtain beneath the top shelf to keep the idols hidden from view.</p>
+<p style="text-align: justify;"><strong>Cupboards</strong></p>
+<p style="text-align: justify;">Why not construct a closet for the deities with sophisticated customizable doors and shelves while constructing a cupboard for everyday use goods at home? This can be the ultimate space-saving puja area for a tiny flat. For further decoration, you can add brass fittings on the cabinet sides and broad shelves with roomy drawers at the bottom.</p>
+<p style="text-align: justify;"><strong>Designing a temple at home: what to do and what not to do</strong></p>
+<ol style="text-align: justify;">
+<li>To maintain the sacredness of the holy place, the puja room should always be separated by doors. As per Vastu, a puja space without a door is inauspicious. This is because the pious spirits inside a puja room might wane if there isn&#8217;t a door.</li>
+<li>A Diya, lamp, or anything else you light in the puja space as per religion must be lit on the right-hand side of the person offering prayers.</li>
+<li>Maintain a clutter-free and spotless puja space.</li>
+<li>Ensure that an electric switchboard is located near the temple so that the area may be lit up during festive occasions.</li>
+<li>When worshiping in the puja room, idols and pictures of God must never face each other; deities facing north or east are regarded as auspicious.</li>
+<li>The shrine should be built high enough for the statues&#8217; feet to be at the level of the chest of the person who is worshiping. Never put the god statue down on the ground.</li>
+<li>A temple or puja area cannot be built against a wall with a bathroom behind it. The justification for not placing the sacred space next to the restroom is to prevent bad energy from entering the house.</li>
+<li>Bold or dark hues, such as black, gray, or any other gloomy hue, should never be used in the prayer area.</li>
+<li>Avoid putting trash cans in the puja area since this raises the chances of bad energy flowing through the atmosphere.</li>
+<li>Remove any wilted flowers from the puja space. As soon as the flowers and foliage lose their freshness, remove them from this area.</li>
+<li>It is deemed inauspicious to place the puja area under a stairway or against the toilet wall. It is considered a big Vastu dosha.</li>
+<li>When storing water, make use of copper vessels rather than glass or low-cost metals such as aluminium.</li>
+<li>To get the greatest benefits, place the puja ghar on the bottom level of your house. According to Vastu, mandirs should not be built in basements or on upper levels.</li>
+<li>According to Vastu Shastra, you should not have a temple in your bedroom. If you absolutely have to place it in the bedroom, make sure your feet aren&#8217;t facing the temple.</li>
+</ol>
+<p style="text-align: justify;"><strong>FAQs</strong></p>
+<p style="text-align: justify;"><strong>Where in the house should the puja area be located?</strong></p>
+<p style="text-align: justify;">Building a puja room should be done in the northeast, east, or north orientations. These directions are said to be the luckiest. To guarantee that the puja rooms are free of bad energy, keep them away from the stairwells and restrooms.</p>
+<p style="text-align: justify;"><strong>Which sort of mandir is suitable for use at home?</strong></p>
+<p style="text-align: justify;">A mandir built of wood, as per Vastu Shastra, is auspicious and regarded more holy. Apart from other wood kinds, Sheesham Wood (Rosewood) is deemed blessed for temples.</p>
+<p style="text-align: justify;"><strong>Which metal is considered propitious for puja?</strong></p>
+<p style="text-align: justify;">It is recommended to utilize objects made of clay, silver, copper, or gold in a puja. Favorable energies are easily received by these things. Owing to the high cost of silver and gold, it may be more cost-effective to use copper, brass, or stone items.</p>
+<p style="text-align: justify;"><strong>Which items should be avoided in the puja room?</strong></p>
+<p style="text-align: justify;">Leather is regarded as an impure material to keep in the mandir. The temple space must not contain any animal skin. Also, don&#8217;t store cash in the puja room. While it is not deemed unclean, saving/storing money at a place where you seek serenity and prosperity is not deemed appropriate.</p>
+<p style="text-align: justify;"><strong>What Colour scheme should you choose in your puja room? </strong></p>
+<p style="text-align: justify;">Choose pastel colours such as white, blue and yellow. These emit a sense of calm and tranquilly that is conducive to prayer.</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home">Prayer Room Vastu Shastra Tips For A Peaceful Home</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/prayer-room-vastu-shastra-tips-for-a-peaceful-home/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Opening the Vastu Door to prosperity</title>
+		<link>https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity</link>
+					<comments>https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity#respond</comments>
+		
+		<dc:creator><![CDATA[Samarjeet Chauhan]]></dc:creator>
+		<pubDate>Mon, 14 Jun 2021 11:44:54 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=30352</guid>
+
+					<description><![CDATA[<p>Vastu is the Indian equivalent of Feng Shui and is a complete guide to getting the best energy out of any house including properties and workplaces. Vastu is an important aspect when it comes to any real estate and today many developers are aware of it and work according to its principles. The starting point [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity">Opening the Vastu Door to prosperity</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Vastu is the Indian equivalent of Feng Shui and is a complete guide to getting the best energy out of any house including properties and workplaces. Vastu is an important aspect when it comes to any real estate and today many developers are aware of it and work according to its principles.</p>
+<p>The starting point is the main door of any property which brings energy into the house. The front door is expected to bring good luck, good fortune, and positivity into the house. Certain directions for the main door are good according to Vastu and some directions can lead to Vastu defects. So, we are with some Vastu tips for the main door</p>
+<p>The main objective of Vastu shastra is to integrate architecture with nature.</p>
+<p><strong>The direction of the Main door</strong></p>
+<p>Vastu principles suggest the north, east, northeast, and west are the most favorable directions for the front door. Vastu does not recommend having the main door in the south, southeastern, and northwestern directions. But Vastu has a cure of conditions that cannot be changed and there are ways to compensate for the undesirable directions. One way is to get the front door made in different combinations of wood and metal.</p>
+<p>Vastu shastra recommends setting up different combinations of pyramids and helixes of different inauspicious directions that some front doors open to. Directions of doors in the southwest or southern directions can be compensated by using a lead helix and a lead metal pyramidal combination. An undesirable northwest direction of the main door is recommended for correction by getting the pyramid and helix made of brass. Vastu experts and practitioners recommend the use of a helix made of copper to correct a Vastu defect made led by the door in the southeast direction.</p>
+<p><strong>The best material according to Vastu for the main door</strong></p>
+<p>Among materials used for the main door, the most auspicious one is wood. But if there are Vastu defects of direction, various types of metal combined with wood shall be required for specific direction. For the defect of the south direction, a combination of wood and metal is recommended. Metalwork on the main door is advised if it faces the west. For the favourable directions of east and north, there are some special guidelines. North facing doors can have silver colour doors but for the east, minimal metal on a primarily wooden door works according to Vastu.</p>
+<p><strong>Main door and its visibility as per Vastu</strong></p>
+<p>The main door of any building, house, or establishment is required to be the biggest, ornate and conspicuous. The Main Door is required to open in the clockwise direction and it should be at least 7 feet in height and three feet in width. Vastu shastra recommends that the other doors in the house should be shorter than the height of the main door.</p>
+<p><strong>Vastu and its origins</strong></p>
+<p>The actual name of Vastu shastra is Vastu Shilpa Shastra and it is found in a section of the Atharva Ved which is the Stapatya Ved. It makes Vastu Shashtra, a science that is thousands of years old. The prime essence of Vastu Shastra is the effect of sun rays falling on different areas of a building. Vastu shastra was a purely technical subject and was practiced by ancient architects and designers. Evidence of Vastu shastra has been found in the ancient excavated cities of Harappa and Mohenjo Daro. There is a mention of Vastu shastra in the Mahabharat as well as in the Ramayana.</p>
+<p>There is an interesting legend about Lord Shiva overpowering a demon named Andhak after many years of battle. A spirit arose from the perspiration of the Lord and consumed the blood of the demon. The spirit went on to do penance and earned the gratitude of Lord Shiva who offered the spirit a boon. Armed with the boon, the spirit went on to wreak havoc until it was overpowered by 81 Gods led by lord Brahma who had the now repentant spirit face down. Lord Brahma placed a conditional boon to the spirit, saying that those who pray to the spirit as a Vastudevta after building a structure would be blessed and that the spirit was free to torment and trouble those who did not worship it.</p>
+<p>This legend led to the development of Vastu Shastra which has been around since 6000B.C. or even before it. In the early days, Vastu shastra was used mainly in the construction of temples and royal palaces. There is mention of Vastu shastra in the Matsya Puran. The names of the early practitioners of Vastu Shastra reads like a mythological who’s who: Vishwakarma, Narad, Nagnajit, Purandra, Brahma, Bhrigu, Purandara, Nandisa, Adri, Vasista, Sukra, and Brihaspati. The first known books on Vastu Shastra were the Kasyapa Silpa and Agama Shastra. The sanctity of Vastu Shastra was such that the ancient architects who were known as sthapatis considered buildings and dwellings as living beings.</p>
+<p><strong>The Science of Vastu Shastra</strong></p>
+<p>It is interesting to know that every building has a horoscope of its own. There are ayadi calculations that attempt to match the horoscope of a building with that of the inhabitants of a house. The horoscope of a building is known as the ayadi shadvarga.</p>
+<p>An important part of Vastu Shastra is known as aya Prakaran where aya denotes income. Aya prakaran needs to be taken up and followed whenever any land is taken up for construction. This will bring good luck and benefits. Some vastu experts can calculate and follow the formulae of Arya and varga. There are nine different vargas.</p>
+<p>8 ayas denote different directions. The Dhwaja aya denotes the east and brings benefits of money. The Dhumra aya of the southeast brings sorrow. The Simha aya of the south denotes luxury. The Svana aya of the southwest has effects of great sins. The gaja aya for the north brings career prospects. The kaka aya of the northeast brings in death.</p>
+<p>Ayas have their hierarchies and are said to have masculine features.</p>
+<p>The Vargas also have different effects. The Swavarga brings monetary benefits, the second is with fewer benefits, the third is auspicious, the fourth has the effect of diseases, the fifth causes enemies, the sixth quarrels/disputes, the seventh with some other benefits and the eighth is the most dangerous with the effects of death.</p>
+<p><strong>Decorating the area around the front door</strong></p>
+<p>The most important aspect for attracting positive energy through the main door is to keep the area around it clean. There should never be a mirror that reflects this door as it will cause the incoming positive energy to bounce back. Also, the main door area needs to be well illuminated. Other Vastu tips include having an attractive nameplate with the house number prominently featured on the door.</p>
+<p>Door colour is an important and attractive feature of the main door. Doors should be painted brown, red, pink, and orange if they are facing east. Green and metallic paints are good for main doors facing north. Vastu experts recommend white and light blue for doors facing northeast and southwest direction. Stairs leading to the main door should be of wood or stone and the number of steps should be even.</p>
+<p><strong>Vastu do’s and don’ts for the main door</strong></p>
+<p><strong>Do’s</strong></p>
+<ul>
+<li>Put some good decoration near the main door- The best ones are potted plants.</li>
+<li>Put a nameplate on the front door. If the main door faces the north, use a wooden nameplate.</li>
+<li>Ensure the door opens clockwise and the hinges are well oiled to avoid squeaking.</li>
+<li>Ensure the main door opens to 90 degrees without any obstruction</li>
+<li>Place idols and pictures of Gods and goddesses near the main door.</li>
+<li>Have a foyer or narrow passage from the main door that leads into a wider passage<strong>. </strong></li>
+</ul>
+<p><strong>  </strong><strong>Don’ts</strong></p>
+<ul>
+<li>Paint the main door black</li>
+<li>Let the main door face the main door of another house. This will disrupt energy.</li>
+<li>Place shoes or shoe racks near the main door.</li>
+<li>Let the main door stand in a corner.</li>
+<li>Let septic tanks be near the main door.</li>
+<li>Let the shadow of any building nearby fall on the main door</li>
+<li>Keep trash cans or garbage near the main entrance.</li>
+<li>Let the main door face a dilapidated old house that is not occupied</li>
+</ul>
+<p><strong>What to avoid at the main entrance of the house</strong></p>
+<p>As per Vastu Shastra, the things to avoid at the main entrance of the house are septic tanks, broken furniture, shoes, and shoe racks, sliding or circular opening, temples, and mirrors. The main door should not be at the center of the wall in which it is housed but towards one of the edges. The main entrance should not be in front of intersecting roads.</p>
+<p><strong>Best positions for placing the main door</strong></p>
+<p>The main door should be facing north or east for best results. There are ways to compensate for the Vastu defect caused by the main door facing west and south. If the positioning is inevitable and cannot be changed, there are combinations of pyramids and helixes of different compositions to compensate for the undesirable placements.</p>
+<p>The main door should be positioned towards one of the edges of the wall in which it is placed. If the house is multi-storeyed, the main door on each floor should not be vertically on top and not in the same vertical line.</p>
+<p>The level of the main door is required to be above ground level and it should not face a wall.</p>
+<p><strong>Simple ways to align with Vastu while renovating your house</strong></p>
+<p>Care is to be taken during renovation while painting the main door in colours suited to Vastu. During the renovation, ensure that the main door is not converted into a sliding door or any kind of arched or semi-circular structure.</p>
+<p>Home renovation is a good opportunity to rectify the identified Vastu defects. If a major renovation is being done, the colour, material, decorations around the main door can be rectified. It would be a good idea to consult a Vastu expert for the best advice before the start of renovation so that the best corrections are possible.</p>
+<p>Home renovation should not disrupt the Vastu alignment already in the house. A Vastu expert will give guidance to not only make corrections but also to improve Vastu alignment during the renovation process.</p>
+<p><strong>FAQs</strong><strong> </strong></p>
+<ol>
+<li>   <strong>Which direction should the entrance of my kitchen face?</strong></li>
+</ol>
+<p>The kitchen should face the east and if not east then the next most auspicious direction is north or west. The kitchen should be in the northwest corner.</p>
+<ol start="2">
+<li>   <strong>Can I have sliding doors in my main entrance?</strong></li>
+</ol>
+<p>No. Sliding doors are an absolute negation for Vastu. Have a normal manually opening door and do not use automatic door closers.</p>
+<ol start="3">
+<li>   <strong>Which is the best-recommended place for keeping shoes or shoe racks in the house?</strong></li>
+</ol>
+<p>Many houses have shoe racks near the entrance or the main door and this is not recommended in a place from where prosperity is supposed to enter the house. The direction in which shoes are shoe racks is supposed to be kept in the south and southwest direction. If there is no option to keep a shoe rack in any other place other than the main entrance, keep the shoe rack outside the door.</p>
+<ol start="4">
+<li>   <strong>Is it alright to have my front gate at right angles to the main entrance of my house?</strong></li>
+</ol>
+<p>Vastu recommends that the main gate and the main door should both face the same direction. If you have more than one entrance door, select the door facing the gate and make this door the main entrance.</p>
+<ol start="5">
+<li>   <strong>Can I use a metal door with a wooden casing for my main entrance door?</strong></li>
+</ol>
+<p>Vastu shastra recommends a full wooden door with only minimal metal if it is facing the east<strong>. </strong>If you still wish to use a metal-reinforced door, the main entrance should face the west.</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity">Opening the Vastu Door to prosperity</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/opening-the-vastu-door-to-prosperity/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vastu Tips to Ward Off Negativity During COVID-19</title>
+		<link>https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19</link>
+					<comments>https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19#respond</comments>
+		
+		<dc:creator><![CDATA[Saumya Dixit]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 07:09:00 +0000</pubDate>
+				<category><![CDATA[Decor]]></category>
+		<category><![CDATA[LifeStyle]]></category>
+		<category><![CDATA[Vastu]]></category>
+		<category><![CDATA[Covid-19 Pandemic]]></category>
+		<category><![CDATA[Diyas]]></category>
+		<category><![CDATA[home buyer]]></category>
+		<category><![CDATA[Home Inte]]></category>
+		<category><![CDATA[Light Lamps]]></category>
+		<category><![CDATA[Meditation]]></category>
+		<category><![CDATA[positive vibes]]></category>
+		<category><![CDATA[Vastu tips for homes]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=24392</guid>
+
+					<description><![CDATA[<p>Vibes inside your home affect you in unimaginable ways. We have got you some simple Vastu tips to help you battle the negativity and preserve sanity inside your home during the testing times of the COVID-19 pandemic. We all have been battling an unprecedented health crisis on our own for the past 10 months now. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19">Vastu Tips to Ward Off Negativity During COVID-19</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-drop-cap"><em><em>Vibes inside your home affect you in unimaginable ways. We have got you some simple <a href="https://www.squareyards.com/blog/vastu-tips-for-wealth-and-happiness"><strong>Vastu tips</strong></a> to help you battle the negativity and preserve sanity inside your home during the testing times of the COVID-19 pandemic.</em></em></p>
+
+
+
+<p>We all have been battling an unprecedented health crisis on our own for the past 10 months now. Life has been restricted inside the four walls of our home; all those Saturday get-together plans, travel vacations have taken a backseat. Our social life has somewhat gone down to zero, taking a toll on our mental health. In these times of negative energies floating around, while we try to cheer ourselves up, we could also seek solace in our ancient Indian Science of Vastu. Here are some Vastu tips for COVID-19 that can help you regain your sanity in these insane times. </p>
+
+
+
+<h2><strong>De-clutter Your Space</strong></h2>
+
+
+
+<p>One of the most important Vastu Tips for<strong> <a href="https://www.squareyards.com/blog/covid-19-may-prod-people-to-buy-new-homes-heres-why">COVID-19 pandemic</a></strong> is to de-clutter your home. Take out the old stuff and make space for new as it generates positive energy which in turn refreshes your mind and attracts positive vibes.</p>
+
+
+
+<h2>Vastu Tips: Don&#8217;t Underestimate <strong>the Magical Camphor</strong></h2>
+
+
+
+<p>Ever thought of the benefits of burning camphor in the house. This humble solid with a strong aroma is not utilised to its true potential. Camphor has therapeutic properties. You can choose to burn camphor at various corners of your <a aria-label="undefined (opens in a new tab)" href="https://www.squareyards.com/blog/step-inside-mirzapur-actor-ali-faizals-bandra-home" target="_blank" rel="noreferrer noopener">home</a>. This will neutralise negative energies and create a nice and auspicious environment inside.</p>
+
+
+
+<h2>Vastu Tips for COVID-19: Light Lamps, Diyas and Incense Sticks</h2>
+
+
+
+<p>A well-lit home not just pushes away negativity but also amplifies the beautiful interiors. You must always make it a habit to light diyas, lamps, and incense sticks every morning and evening. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="360" height="260" src="https://www.squareyards.com/blog/wp-content/uploads/2020/11/shutterstock_1848062101.jpg" alt="Ward off COVID negativity by lighting diyas" class="wp-image-24396" srcset="https://www.squareyards.com/blog/wp-content/uploads/2020/11/shutterstock_1848062101.jpg 360w, https://www.squareyards.com/blog/wp-content/uploads/2020/11/shutterstock_1848062101-300x217.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></figure></div>
+
+
+
+<h2>Medicines in the Kitchen? A Big No.</h2>
+
+
+
+<p>Do you have the habit of keeping medicines in the kitchen? You should get rid of that. The kitchen is the last place to keep medicines as the kitchen represents happiness and cheer whereas medicines represent the opposite. So, as Vastu tells us kitchen and medicines don&#8217;t blend well.</p>
+
+
+
+<h2>Meditation is What You Need</h2>
+
+
+
+<p>Before you cleanse your surroundings and chuck out the COVID negativity from <a aria-label="undefined (opens in a new tab)" href="https://www.squareyards.com/gurgaon-real-estate" target="_blank" rel="noreferrer noopener">your home</a>, it is important to perform a mind cleansing activity. This is what meditation is for you. So, start with 15 minutes a day and you will surely become a better person than today.</p>
+
+
+
+<h2>Say Hello to Wind Chimes</h2>
+
+
+
+<p>Hang wind chimes at the window side or anywhere it&#8217;s airy. The tinkling of these bells will break the pattern of all kinds of negative energy, making space for positive energy to absorb inside.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="360" height="260" src="https://www.squareyards.com/blog/wp-content/uploads/2020/11/shutterstock_648230533.jpg" alt="Significance of WInd Chimes in Vastu" class="wp-image-24397" srcset="https://www.squareyards.com/blog/wp-content/uploads/2020/11/shutterstock_648230533.jpg 360w, https://www.squareyards.com/blog/wp-content/uploads/2020/11/shutterstock_648230533-300x217.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></figure></div>
+
+
+
+<p>There is still a lot of time for things to get back to normal. What can we do till then? We can definitely try to keep ourselves strong and shield ourselves with positive thoughts to ward off the <a aria-label="undefined (opens in a new tab)" href="https://www.squareyards.com/blog/future-of-home-design-in-the-post-covid-era" target="_blank" rel="noreferrer noopener">COVID </a>negativity and inspire others to practice the same. </p>
+
+
+
+<p>Also Read: <a href="https://www.squareyards.com/blog/vastu-tips-for-main-gate-of-house-compound-wall">Vastu Tips for Main Gate of House &amp; Compound Wall</a><br><a href="https://www.squareyards.com/blog/vastu-tips-to-follow-while-moving-into-your-new-apartment">Vastu tips to follow while moving into your new apartment</a><br><a href="https://www.squareyards.com/blog/vastu-tips-for-office">Vastu Tips for Office</a></p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19">Vastu Tips to Ward Off Negativity During COVID-19</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/vastu-tips-to-ward-off-negativity-during-covid-19/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vastu Tips for Wealth and Happiness: All that you need to know</title>
+		<link>https://www.squareyards.com/blog/vastu-tips-for-wealth-and-happiness</link>
+					<comments>https://www.squareyards.com/blog/vastu-tips-for-wealth-and-happiness#respond</comments>
+		
+		<dc:creator><![CDATA[Resident Editor]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2020 16:02:00 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<category><![CDATA[vastu for wealth at home]]></category>
+		<category><![CDATA[vastu tips for health and wealth]]></category>
+		<category><![CDATA[vastu tips for wealth]]></category>
+		<category><![CDATA[vastu tips for wealth and money]]></category>
+		<category><![CDATA[vastu tips for wealth creation]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=20334</guid>
+
+					<description><![CDATA[<p>We need to be aware of the various&#160;Vastu tips for wealth and happiness&#160;since one of the key elements of well-being is financial prosperity. And what better way to start than at home? Rearranging your home or decorating a new one, according to Vastu, has a lot of benefits, the results of which has been experienced [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-for-wealth-and-happiness">Vastu Tips for Wealth and Happiness: All that you need to know</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://www.squareyards.com/blog/wp-content/uploads/2020/07/image-75.png" alt="Vastu Tips for Wealth and Happiness" class="wp-image-20335" width="387" height="267"/></figure></div>
+
+
+
+<p>We need to be aware of the various&nbsp;Vastu tips for wealth and happiness&nbsp;since one of the key elements of well-being is financial prosperity. And what better way to start than at home? Rearranging your home or decorating a new one, according to Vastu, has a lot of benefits, the results of which has been experienced by many. Vastu or Vastu Shastra is an age-old Indian system and method of architecture. It defines the various laws of laying out of and arranging of a place so that it is alignment with the different forces of nature and brings about an all-over positive effect.&nbsp;</p>
+
+
+
+<p><strong>Let’s take a look at some of the Vastu tips for wealth and happiness that might work out well for your home:&nbsp;</strong></p>
+
+
+
+<ul><li>Well, when it comes to the north zone of the house, to attract wealth, you can always go with a potted money plant. If you do not want to keep a money plant, then you can instead keep or hang a picture of a forest or lush green fields, since it is a signifier of ushering in better career growth opportunities and as a result, more financial prosperity.&nbsp;</li><li>You need to pay attention to the entrance of the house. It should be arranged beautifully and well-kept at all times so that it brings out a feeling of positivity. It acts as a marker of beautiful and prosperous things surrounding you. An un-kept entrance, however, marks the fact that you will be surrounded by trouble and unpleasant things. Hence, taking particular care of the entrance of the house according to&nbsp;Vastu tips for wealth and happiness&nbsp;is of immense necessity.&nbsp;</li></ul>
+
+
+
+<p><strong>Realize the Importance of Directions in Vastu:</strong></p>
+
+
+
+<ul><li>You need to pay particular attention to the north-east corner of your house. That is the direction of Lord Kuber, who is the God of wealth in the Indian pantheon. It is important to have this corner and part of your house free of any form of clutter to let the positive energy flow in from this direction. If you want you can also place a mirror in the northeast corner, to attract economic prosperity. </li><li>We all have safes and lockers in our houses, right? So, according to Vastu tips for wealth, you should make sure that these items, and all valuable items, are kept in the south-west corner of the house. However, take note of the direction of the door of the locker or the safe. Does it open in the south or west corner? Then, it might incur a lot of expense. The doors should be facing the north-east direction. </li><li>The focus, as you can see when it comes to Vastu tips for wealth and happiness is always on the north-east corner of the house. To welcome wealth into your household, you might also want to place water objects in the north-east corner. For example, you can keep an aquarium or if you have space, install a small water fountain. This helps with the flow of positive energy which in turn brings wealth. </li><li>The fact that water is one of our most treasured wealth is reiterated by the Vastu Shastra. It says that the moment you see that there is water leakage or damage of sorts, you should immediately get it repaired since it might be a sign for wealth leaking away!</li><li>When you are building a new home, make it a point, the toilet is not in the southwest corner. It might lead to heavy financial loss and even disturbed sleep. </li><li>Keep the clocks ticking! Yes, that’s right. A clock in the house which does not work signifies a stagnation in your financial growth and hence according to Vastu tips for wealth and happiness, you need to make sure that all the clocks in your house are up and working. </li></ul>
+
+
+
+<p><strong>The Role of a Vastu Consultant Cannot be Undermined</strong></p>
+
+
+
+<p>Now, that you have 8 basic tips that will help you to make your house more Vastu compliant in terms of ushering in monetary wealth, go ahead and start making the required changes with the help of a knowledgeable Vastu Consultant. Each house is unique because of its surroundings and thus a knowledgeable Vastu Consultant will be able to best guide you regarding any remedial measures to be taken. Always remember to keep positive and well-balanced energy at home, which in turn will ensure both financial prosperity and happiness.&nbsp;</p>
+
+
+<p><strong>Also Read:&nbsp;</strong></p>
+<p><a href="https://www.squareyards.com/blog/vastu-tips-for-mirrors" target="_blank" rel="noopener noreferrer"><strong><span style="text-decoration: underline;">Vastu Tips for Mirrors</span></strong></a><br><span style="text-decoration: underline;"><a href="https://www.squareyards.com/blog/vastu-tips-for-office" target="_blank" rel="noopener noreferrer"><strong>Vastu Tips for Office</strong></a></span><br><span style="text-decoration: underline;"><a href="https://www.squareyards.com/blog/vastu-tips-for-main-gate-of-house-compound-wall" target="_blank" rel="noopener noreferrer"><strong>Vastu Tips for Main Gate of House &amp; Compound Wall</strong></a></span><br><span style="text-decoration: underline;"><a href="https://www.squareyards.com/blog/top-10-vastu-tips-while-buying-a-new-home" target="_blank" rel="noopener noreferrer"><strong>Top 10 Vastu Tips while buying a new home</strong></a></span></p>
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-for-wealth-and-happiness">Vastu Tips for Wealth and Happiness: All that you need to know</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/vastu-tips-for-wealth-and-happiness/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Internal Staircase Vastu Principles: Some basic dos and don’ts</title>
+		<link>https://www.squareyards.com/blog/internal-staircase-vastu</link>
+					<comments>https://www.squareyards.com/blog/internal-staircase-vastu#respond</comments>
+		
+		<dc:creator><![CDATA[Resident Editor]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2020 07:54:00 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<category><![CDATA[internal staircase as per vastu]]></category>
+		<category><![CDATA[internal staircase vastu for north facing house]]></category>
+		<category><![CDATA[internal staircase vastu for south facing house]]></category>
+		<category><![CDATA[staircase as per vastu]]></category>
+		<category><![CDATA[staircase position as per vastu]]></category>
+		<category><![CDATA[staircase vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=20378</guid>
+
+					<description><![CDATA[<p>Internal staircase Vastu principles lay down several core tenets of integrating them within homes with multiple stories. Adhering to the same will usher in greater prosperity for members of any home. Wondering about internal staircase Vastu principles and why they are important? The ancient Vastu Shastra guidelines lay equal emphasis on each and every component [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/internal-staircase-vastu">Internal Staircase Vastu Principles: Some basic dos and don’ts</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://www.squareyards.com/blog/wp-content/uploads/2020/07/image-81.png" alt="Internal Staircase Vastu" class="wp-image-20379" width="346" height="230"/></figure></div>
+
+
+
+<p>Internal staircase Vastu principles lay down several core tenets of integrating them within homes with multiple stories. Adhering to the same will usher in greater prosperity for members of any home.</p>
+
+
+
+<p>Wondering about internal staircase Vastu principles and why they are important? The ancient Vastu Shastra guidelines lay equal emphasis on each and every component of the home, laying down basic dos and don’ts in order to optimize well-being, happiness, prosperity and good health. Staircases are a pivotal part of any independent home, apartment building or commercial establishment. In case they are not suitably placed, it may lead to an accumulation of negative energy which may wash away all the accumulated positive vibes of the space.</p>
+
+
+
+<p><strong>Direction and other tenets as per internal staircase Vastu principles</strong></p>
+
+
+
+<p>Internal staircase <a href="https://www.squareyards.com/blog/money-plant-vastu">Vastu guidelines</a> clearly state that all such structures should be constructed in a manner where the person climbing the steps moves to the southward direction from the north. The movement can also be from east to west. Any other type of movement will bring negative energy. This applies for both external and internal staircases across both residential and commercial properties. Staircases are perceived as spaces with abundant energy flow and hence this should go clockwise as someone uses them. </p>
+
+
+
+<p>Vastu for internal staircases states that the number of steps should be in an odd number, i.e. 15, 19, 17 and so on. This is because a majority of individuals are right-handed and put the right foot forward while climbing. While finishing up, they end with the right foot as well. It is only possible when there are an odd number of steps on the staircase. Putting the right foot forward is equated with greater gains while the left one is equated with losses.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://www.squareyards.com/blog/wp-content/uploads/2020/07/image-82.png" alt="staircase vastu
+
+" class="wp-image-20380" width="284" height="190"/></figure></div>
+
+
+
+<p><strong>Internal staircase Vastu tips that you can use</strong></p>
+
+
+
+<p>When it comes to some handy internal staircase Vastu tips, you should know that the height difference should be optimal between the steps. The walls adjoining the structure must have colorful pots, flowers or even wallpaper. Colorful décor will naturally usher in more positive energy between floors. You should refrain from constructing any staircase in the north-eastern corner of any structure irrespective of whether it is external or internal. Other rooms such as Pooja rooms or bathrooms must not be slotted under the staircase. You may use the space for storage purposes however.</p>
+
+
+
+<p>Avoid putting the staircase right in front of the home entrance since this creates a sense of imbalance overall. This can be combated by putting indoor plants on the staircase. Build your staircase in the southern or western portion of the dwelling. Make sure that the number of steps does not end with zero. Spiral staircases may be harbingers of poor health and those encircling whole buildings are also avoidable. Rooms with staircases in south-west portions of basements are not advisable and doors should be there at both the end and beginning of the structure. Stairs must not touch eastern or northern walls. Repair broken steps swiftly without delays.</p>
+
+
+<p><strong>Also Read:</strong></p>
+<p><strong><a href="https://www.squareyards.com/blog/vastu-fish-aquarium-principles" target="_blank" rel="noopener noreferrer">Vastu Fish Aquarium Principles</a></strong></p>
+<p><a href="https://www.squareyards.com/blog/south-facing-house-vastu-plans" target="_blank" rel="noopener noreferrer"><strong>South Facing House Vastu</strong></a></p><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/internal-staircase-vastu">Internal Staircase Vastu Principles: Some basic dos and don’ts</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/internal-staircase-vastu/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Vastu Tips for Mirrors: For a Peaceful &#038; Happy Life</title>
+		<link>https://www.squareyards.com/blog/vastu-tips-for-mirrors</link>
+					<comments>https://www.squareyards.com/blog/vastu-tips-for-mirrors#comments</comments>
+		
+		<dc:creator><![CDATA[Resident Editor]]></dc:creator>
+		<pubDate>Wed, 10 Jun 2020 15:17:00 +0000</pubDate>
+				<category><![CDATA[Vastu]]></category>
+		<category><![CDATA[mirror vastu]]></category>
+		<guid isPermaLink="false">https://www.squareyards.com/blog/?p=20325</guid>
+
+					<description><![CDATA[<p>Mirror in Bedroom Vastu Are you planning to set up a beautiful&#160;mirror in bedroom&#160;to adorn yourself and the beauty of your room? Well based on the positioning of mirrors in your bedroom, here are some of the conditions as per the Vastu Shastra to turn your home Vastu Compliant. Basically, as per the Vastu Shastra, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-for-mirrors">Vastu Tips for Mirrors: For a Peaceful &amp; Happy Life</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img loading="lazy" src="https://www.squareyards.com/blog/wp-content/uploads/2020/07/image-72.png" alt="Mirror Vastu" class="wp-image-20327" width="324" height="194"/></figure></div>
+
+
+
+<h2 id="h-mirror-in-bedroom-vastu">Mirror in Bedroom Vastu</h2>
+
+
+
+<p>Are you planning to set up a beautiful&nbsp;<strong>mirror in bedroom</strong>&nbsp;to adorn yourself and the beauty of your room? Well based on the positioning of mirrors in your bedroom, here are some of the conditions as per the Vastu Shastra to turn your home Vastu Compliant.</p>
+
+
+
+<ul><li>Basically, as per the Vastu Shastra, experts recommend not to place a mirror in your bedrooms.</li><li>However, if you do have one,&nbsp;<strong>mirror in bedroom Vastu&nbsp;</strong>recommends toplace it either on the west or south wall.</li><li>Note that, mirrors shouldn’t be hung opposite to your bed as it could have adverse effects on your living conditions.</li><li>Likewise, mirrors facing north and east directions are believed to drive away the positive energy entering your rooms by reflecting it.</li><li>Therefore, while placing a mirror on your bedroom, make sure it reflects beautiful views outside to bring in the positive flow of energy into your rooms.</li></ul>
+
+
+
+<p>Vastu Shastra poses that mirrors might trigger sleeplessness when positioned in the bedrooms. Furthermore, when placed opposite the bed, a third party that is the negative energy could intrude on you while bonding with your partner.</p>
+
+
+
+<h2 id="h-what-is-vastu">What is Vastu?</h2>
+
+
+
+<p>Vastu is an ancient study that focuses on the flow of energy. This scientific study focuses on both positive and negative vibes that surround us. People tend to be drawn towards Vastu Compliant homes to lead happy and healthy lives.</p>
+
+
+
+<p>Therefore, in this article, we present the various aspects of the Vastu Shastra to make your homes Vastu Compliant. You can even lookup Vastu for different rooms in your language to understand the concept better. For example, people search for&nbsp;<strong>bedroom Vastu in Telegu&nbsp;</strong>and likewise you could do the same.</p>
+
+
+
+<h2 id="h-some-do-s-and-don-ts-of-vastu">Some Do’s and Don’ts ‘of Vastu</h2>
+
+
+
+<ul><li>Focus on the east.</li><li>Install a name frame at a height.</li><li>Sleep facing the south.</li><li>Don’t plant cactus or other prickly plants indoors.</li><li>Don’t store waste and unused items that are old and worn out.&nbsp;</li></ul>
+
+
+<h2>Crosscheck the following aspects of mirrors while buying from a Mirror Shop</h2>
+<p>Buying mirrors from the&nbsp;<strong>mirror</strong>&nbsp;<strong>shop</strong>&nbsp;is as important as placing one in your home. Let us take a look at the aspects of buying a mirror:</p>
+<ul>
+<li>The&nbsp;<strong>house front mirror design</strong>&nbsp;should possess the finest quality glass having a thick and silver lining.</li>
+<li>Check for inconsistencies and distorted reflectiveness.</li>
+<li>Look into the various shapes and sizes when opting to buy wall mirrors.</li>
+<li>Full length and&nbsp;<strong>dressing</strong>&nbsp;<strong>mirror</strong>s need to be placed either on a freestanding or could also be hung. Make sure to buy long and narrow&nbsp;<strong>dressing</strong>&nbsp;<strong>mirrors for bedroom</strong>&nbsp;as they are proposed to reflect your full-length reflection.</li>
+<li>There is one more category of freestanding mirrors or the leaning ones for&nbsp;<strong>dressing mirror cover</strong>. These are also full-length mirrors that do not require to be mounted on the walls.&nbsp;&nbsp;</li>
+</ul>
+<h2>What is Mirror Vastu?</h2>
+<p>Mirrors are a great option to go for when it comes to select the best home décor. They contribute to making your home attractive by giving a brighter and spacious appeal. However, as per the Vastu Shastra, there are several aspects to keep in mind while designing your home with the help of mirrors. Some of the key pointers are discussed below based on&nbsp;<strong>Mirror Vastu</strong>:</p>
+<ul>
+<li>Mirrors should be placed on the West and South Walls.</li>
+<li>Mirrors should be placed adjacent to the entrance and not opposed to it.</li>
+<li>Dining and Living Rooms are the ideal choices to place mirrors.</li>
+<li>Mirrors should not oppose the north and east directions of your home.</li>
+<li>Bedroom mirrors should not face the bed.</li>
+<li>Circular Mirrors should be hung in living rooms and not rectangular.</li>
+<li>Whereas, rectangular or square mirrors should be used when using the&nbsp;<strong>mirror facing south</strong>&nbsp;or west wall.</li>
+</ul>
+<p><strong>&nbsp;</strong></p>
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="300" height="168" src="https://www.squareyards.com/blog/wp-content/uploads/2020/07/image-73.png" alt="vastu for mirror" class="wp-image-20328"/></figure></div>
+
+
+
+<p><strong>Negative Effects of Placing a Mirror in the Wrong Direction</strong></p>
+
+
+
+<p>However, there are also negative effects of placing a mirror in the wrong place or directions and you should rectify them accordingly. Some of those instances are:&nbsp;</p>
+
+
+
+<ul><li>Fixing a mirror in the south-east direction (also known as the fire direction) can increase the chances of disagreements and quarrels.</li><li>No two mirrors should be placed side by side or it can cause restlessness among family members.&nbsp;</li><li>According to <a href="https://www.squareyards.com/blog/vastu-for-flats">Vastu</a> Shastra, mirrors should not face in the east or north direction at an entrance. In doing so, you may increase your chances for attracting negative energy and worsen the positive energy.</li><li>It is best to avoid placing a mirror in the bedroom because it can cause nightmares and sleep disturbances. In case of a Vastu mirror position in your bedroom, please make sure it does not face the bed.&nbsp;&nbsp;</li></ul>
+
+
+
+<p><strong>Important tips on Vastu mirror position:</strong></p>
+
+
+
+<ul><li>Avoid oval-shaped mirrors instead use rectangular or square mirrors.</li><li>Mirrors in a bathroom should not be kept dark but adequately lighted.&nbsp;</li><li>In the case of chronic sleeplessness or nightmares, placing a mirror between the bed and mattress (facing upward) can reduce the symptoms.</li><li>Mirrors positioned at the entrance should not reflect sunlight or it can bring negative energies.&nbsp;</li><li>Always get rid of a broken or tainted mirror to let the positive aura grow in your home</li><li>Looking at oneself during sunrise in a big mirror placed on the dressing table will bring good luck.</li><li>Avoid hanging a mirror on the south walls and cover all glass window panes/glass doors at night to prevent yourself from adversities.&nbsp;</li><li>Lastly, do not place two mirrors opposite to each other because it may create anger, impatience and misunderstanding among family members.&nbsp;</li></ul>
+
+
+<h2 style="text-align: justify;">Factors affecting Mirror in Bedroom Vastu&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</h2>
+<p style="text-align: justify;">The bedroom is the ultimate space to relax and rejuvenate after a day’s work. However, while planning your bedroom, you should look for the following aspects for&nbsp;<strong>mirror direction in bedroom</strong>&nbsp;to make it Vastu Compliant:</p>
+<ul style="text-align: justify;">
+<li>Mirrors should not be placed opposite your beds. That is,&nbsp;<strong>mirror position in bedroom as per Vastu</strong>&nbsp;should not face the bed. The&nbsp;<strong>mirror in front of bed&nbsp;</strong>is highly not recommended by Vastu Shastra Experts.</li>
+<li>Your sleeping position should not be reflected in the mirror. This could trigger insomnia and restlessness.</li>
+<li>Mirrors when placed across the bed could drive a negative force that could intrude on husband-wife relations.</li>
+<li>It is best to avoid mirrors in the bedroom. However, if you still wonder&nbsp;<strong>where to put a mirror in bedroom</strong>, then make sure to place it such that you could cover it up before you go to sleep.</li>
+<li>Also, do not place it in the south-east&nbsp;<strong>mirror</strong>&nbsp;<strong>direction</strong>.&nbsp;<strong>Vastu Mirror Position</strong>&nbsp;experts do not recommend this angle as it is considered to be unlucky.</li>
+<li><strong>Mirror direction <a href="https://www.squareyards.com/blog/vastu-for-toilets-bathrooms">Vastu</a>&nbsp;</strong>suggests to avoid placing the&nbsp;<strong>mirror</strong>&nbsp;<strong>opposite</strong>&nbsp;to each other.</li>
+</ul>
+<p style="text-align: justify;"><strong>&nbsp;</strong></p>
+<h2 style="text-align: justify;">Various Shapes and their Vastu on Wall Dressing Mirror</h2>
+<p style="text-align: justify;">Shapes and sizes are as important as the positioning of the Mirrors. Let us take a look at what shapes go well with&nbsp;<strong>wall dressing mirror</strong>&nbsp;at the various corners of your home:</p>
+<ul style="text-align: justify;">
+<li>When placing a&nbsp;<strong><a href="https://www.squareyards.com/blog/6-ways-mirrors-make-a-home-look-bigger">mirror</a> as per Vastu</strong>&nbsp;on the north-facing walls, you must avoid square-shaped ones. Instead, you could go for circular, rectangular, diagonals, or any of that sort.</li>
+<li><strong>Mirror placement on the wall </strong>to face the east should be done with either rectangular or square mirrors. Circular mirrors should completely be avoided if you wish to make&nbsp;<strong>mirror placement as per Vastu</strong>.</li>
+<li>North-east facing walls are best to place the round or rectangular shaped mirrors.</li>
+<li>West walls too are nearly perfect for round and square-shaped mirrors.</li>
+<li>South-east and south-west walls must be completely devoid of any mirrors.</li>
+<li>You can still set&nbsp;<strong>mirror position as per Vastu</strong>&nbsp;on the walls facing south.</li>
+</ul>
+<h2 style="text-align: justify;">Factors to keep in mind for Mirror Placement in Living Room</h2>
+<p style="text-align: justify;">Living rooms are the centre of your homes. Placing a mirror in the living room is an ideal choice. However, keep the following factors in mind before making&nbsp;<strong>mirror placement in the living room</strong>:</p>
+<ul style="text-align: justify;">
+<li>Mirrors reflect positive and negative energy in the living room.</li>
+<li>Based on the vibe of the guests, your home could be drawn to positivity as well as negativity.</li>
+<li>If your living rooms open up to a beautiful view with gardens and greenery around, make sure to place the various&nbsp;<strong>home front mirror design</strong>&nbsp;at an angle to reflect the outside views.</li>
+<li>Place the&nbsp;<strong>mirror</strong>&nbsp;<strong>on</strong>&nbsp;<strong>the west wall Vastu&nbsp;</strong>at a height, that is, above the ground level.</li>
+<li>Rectangular, Square and Circular Shaped&nbsp;<strong>mirror in</strong>&nbsp;<strong>Living room Vastu</strong>&nbsp;is recommended. Avoid irregular shaped mirrors for living rooms.&nbsp;</li>
+</ul>
+<h2 style="text-align: justify;">Role of Dressing Table with Mirror on it</h2>
+<p style="text-align: justify;">Many ask&nbsp;<strong>where to place the dressing table in bedroom as per Vastu</strong>. Here are some of the suggestions to set a&nbsp;<strong>dressing table Vastu&nbsp;</strong>or any&nbsp;<strong>almirah with mirror Vastu&nbsp;</strong>in your bedroom.</p>
+<ul style="text-align: justify;">
+<li>Mirrors in&nbsp;<strong>wardrobe facing Vastu&nbsp;</strong>should be positioned in such an angle that it does not appear opposing the bed.</li>
+<li>It should either be adjacent to the main door and avoid south-east positioning.</li>
+<li>The&nbsp;<strong>best position for dressing table&nbsp;</strong>would solely depend on the length and breadth of your room.</li>
+<li>Therefore, before you buy any home, make sure it is Vastu compliant.</li>
+<li>However, if your dressing table faces the bed, you can still modify it by adding a&nbsp;<strong>dressing mirror cover&nbsp;</strong>to it.</li>
+</ul>
+<h2 style="text-align: justify;">Wardrobe Position As per Vastu</h2>
+<p style="text-align: justify;">Here are some tips for&nbsp;<strong>Wardrobe direction as per Vastu:</strong></p>
+<ul style="text-align: justify;">
+<li>The ideal&nbsp;<strong>wardrobe position as per Vastu&nbsp;</strong>is in the south-west direction.</li>
+<li>Another preferred direction as per the&nbsp;<strong>wardrobe Vastu&nbsp;</strong>is the north-west direction.</li>
+<li>Moreover, the south and west walls are the best positions to place a heavy almirah.</li>
+</ul>
+<h2 style="text-align: justify;">Locker Direction as per Vastu</h2>
+<p style="text-align: justify;">For those who are keen to know the&nbsp;<strong>locker direction as per Vastu</strong>, check out the following pointers given below:</p>
+<ul style="text-align: justify;">
+<li><strong>Vastu for locker in bedroom&nbsp;</strong>should be placed in south direction. However, the locker should be facing or pointing to the north.</li>
+<li>Placing the locker in the south-west or north-east is not recommended.</li>
+<li>The back of the locker should be on the south wall.</li>
+</ul>
+<p style="text-align: justify;"></p>
+
+        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>1.Where a mirror should be placed in Feng Shui?</h2>                <div>
+					                    <p>
+						According to Feng Shui, mirrors are the key source to reflect both positive and negative energy to your homes. Therefore, mirrors should be placed per the angle and position of your home. Moreover –<br>&#8211; Mirrors can be well placed in the hallway and dining room.<br>&#8211; Avoid putting mirrors in your workspace and kitchen.<br>&#8211; If planning to hang a mirror at the entrance of your home, make sure you put it perpendicular to it instead of setting in opposite to the <strong>main door mirror design</strong>.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>2.How should a mirror be placed in a bedroom?</h2>                <div>
+					                    <p>
+						Mirrors should be kept away from bedrooms. However, if there is one, then it must not face the north or east direction as they may reflect and drive away from the positive energy from your homes. Note that mirrors should always be placed in such a position that is not opposed to your bed.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>3.Where to put a mirror in the bedroom?         </h2>                <div>
+					                    <p>
+						Mirrors are a great source of reflecting energies – both positive and negative. Placing it in the bedroom is not an ideal choice as it may trigger sleeplessness and drive away from the positive and peaceful approach of your bedroom. However, if you still have one in your bedroom or any <strong>mirror facing bedroom door </strong>then set it up in such a position that it may neither face the bed nor the north and east directions.                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>4.Where should we place the mirror as per Vastu?
+</h2>                <div>
+					                    <p>
+						According to Vastu Shastra, the mirror should be placed on walls facing beautiful views outside to reflect positive energy to your homes. It is always better to avoid hanging a mirror facing the north and east direction to avoid the flow of positive energy out of your homes.<br>                    </p>
+                </div>
+            </div>
+        </section>
+	        <section class="sc_fs_faq sc_card">
+            <div>
+				<h2>5.Can we place a mirror on the west wall?</h2>                <div>
+					                    <p>
+						West Walls are an ideal choice for setting up mirrors. However, do remember to set up a circular mirror instead of a rectangular one.                    </p>
+                </div>
+            </div>
+        </section>
+	
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+                    {
+                "@type": "Question",
+                "name": "1.Where a mirror should be placed in Feng Shui?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to Feng Shui, mirrors are the key source to reflect both positive and negative energy to your homes. Therefore, mirrors should be placed per the angle and position of your home. Moreover –<br>- Mirrors can be well placed in the hallway and dining room.<br>- Avoid putting mirrors in your workspace and kitchen.<br>- If planning to hang a mirror at the entrance of your home, make sure you put it perpendicular to it instead of setting in opposite to the <strong>main door mirror design</strong>."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "2.How should a mirror be placed in a bedroom?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mirrors should be kept away from bedrooms. However, if there is one, then it must not face the north or east direction as they may reflect and drive away from the positive energy from your homes. Note that mirrors should always be placed in such a position that is not opposed to your bed."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "3.Where to put a mirror in the bedroom?         ",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Mirrors are a great source of reflecting energies – both positive and negative. Placing it in the bedroom is not an ideal choice as it may trigger sleeplessness and drive away from the positive and peaceful approach of your bedroom. However, if you still have one in your bedroom or any <strong>mirror facing bedroom door </strong>then set it up in such a position that it may neither face the bed nor the north and east directions."
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "4.Where should we place the mirror as per Vastu?
+",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "According to Vastu Shastra, the mirror should be placed on walls facing beautiful views outside to reflect positive energy to your homes. It is always better to avoid hanging a mirror facing the north and east direction to avoid the flow of positive energy out of your homes.<br>"
+                                    }
+            }
+            ,	            {
+                "@type": "Question",
+                "name": "5.Can we place a mirror on the west wall?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "West Walls are an ideal choice for setting up mirrors. However, do remember to set up a circular mirror instead of a rectangular one."
+                                    }
+            }
+            	        ]
+    }
+
+</script><p>The post <a rel="nofollow" href="https://www.squareyards.com/blog/vastu-tips-for-mirrors">Vastu Tips for Mirrors: For a Peaceful &amp; Happy Life</a> appeared first on <a rel="nofollow" href="https://www.squareyards.com/blog">Real Estate News</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.squareyards.com/blog/vastu-tips-for-mirrors/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

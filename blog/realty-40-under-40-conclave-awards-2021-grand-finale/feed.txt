@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Realty+ 40 Under 40 Conclave &#038; Awards 2021 Grand Finale	</title>
+	<atom:link href="https://www.squareyards.com/realty-40-under-40-conclave-awards-2021-grand-finale/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.squareyards.com/blog/realty-40-under-40-conclave-awards-2021-grand-finale</link>
+	<description>A Complete Guide for Real Estate Market Updates</description>
+	<lastBuildDate>Fri, 09 Jul 2021 07:45:15 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>

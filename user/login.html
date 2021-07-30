@@ -1,0 +1,658 @@
+<!doctype html>
+<html lang="en">
+
+<!-- Mirrored from www.squareyards.com/user/login by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jul 2021 10:31:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8">
+<title>Login</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=no" />
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<link rel="stylesheet" href="../assets/fonts/activities/moonicon.css" type="text/css" />
+<link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="../assets/fonts/activities/moonicon.css" type="text/css" />
+<link rel="stylesheet" href="../assets/css/global.css" type="text/css" />
+<style>
+      *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+      :before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+      html{scroll-behavior: smooth;}
+      body{background:#fff;overflow:hidden;overflow-y:auto}
+      body,ul,ol,li,h1,h2,h3,h4,h5,h6,figure,p,strong{padding:0;margin:0;list-style:none;font-family:Arial, "sans-serif";}
+      h1,h2,h3,h4,h5,h6{font-weight: 600;}
+      body,p{font-size:13px;line-height:22px;color:#666}
+      a,.btn,button{text-decoration:none;outline:none}
+      small{font-size:100%}
+      header .searchBox{display:none!important}
+      .container{padding:0 15px;margin:0 auto;width:1170px}
+      .row{margin:0 -15px;display:table;clear:both;width:calc(100% + 30px)}
+      .col-xl-1,.col-xl-2,.col-xl-3,.col-xl-4,.col-xl-5,.col-xl-6,.col-xl-7,.col-xl-8,.col-xl-9,.col-xl-10,.col-xl-11,.col-xl-12{padding:0 15px;position:relative;min-height:1px;float:left}
+      .col-xl-1{width:8.33333333%}
+      .col-xl-2{width:16.66666667%}
+      .col-xl-3{width:25%}
+      .col-xl-4{width:33.33333333%}
+      .col-xl-5{width:41.66666667%}
+      .col-xl-6{width:50%}
+      .col-xl-7{width:58.33333333%}
+      .col-xl-8{width:66.66666667%}
+      .col-xl-9{width:75%}
+      .col-xl-10{width:83.33333333%}
+      .col-xl-11{width:91.66666667%}
+      .col-xl-12{width:100%}
+      @media screen and (max-width:1024px) {
+      .container{width:100%}
+      .col-lg-1{width:8.33333333%}
+      .col-lg-2{width:16.66666667%}
+      .col-lg-3{width:25%}
+      .col-lg-4{width:33.33333333%}
+      .col-lg-5{width:41.66666667%}
+      .col-lg-6{width:50%}
+      .col-lg-7{width:58.33333333%}
+      .col-lg-8{width:66.66666667%}
+      .col-lg-9{width:75%}
+      .col-lg-10{width:83.33333333%}
+      .col-lg-11{width:91.66666667%}
+      .col-lg-12{width:100%}
+      }
+      @media screen and (max-width:768px) {
+      .container,.col-md,.col-sm,.col-xs{width:100%}
+      .col-md-1{width:8.33333333%}
+      .col-md-2{width:16.66666667%}
+      .col-md-3{width:25%}
+      .col-md-4{width:33.33333333%}
+      .col-md-5{width:41.66666667%}
+      .col-md-6{width:50%}
+      .col-md-7{width:58.33333333%}
+      .col-md-8{width:66.66666667%}
+      .col-md-9{width:75%}
+      .col-md-10{width:83.33333333%}
+      .col-md-11{width:91.66666667%}
+      .col-md-12{width:100%}
+      }
+      @media screen and (max-width:480px) {
+      .col-sm-1{width:8.33333333%}
+      .col-sm-2{width:16.66666667%}
+      .col-sm-3{width:25%}
+      .col-sm-4{width:33.33333333%}
+      .col-sm-5{width:41.66666667%}
+      .col-sm-6{width:50%}
+      .col-sm-7{width:58.33333333%}
+      .col-sm-8{width:66.66666667%}
+      .col-sm-9{width:75%}
+      .col-sm-10{width:83.33333333%}
+      .col-sm-11{width:91.66666667%}
+      .col-sm-12{width:100%}
+      }
+      
+      ::-webkit-input-placeholder{color:#cbcbcb; }
+      :-ms-input-placeholder{color:#cbcbcb; }
+      ::placeholder{color:#cbcbcb; }
+      .img-responsive{max-width:100%;height:auto;max-height:100%}
+      .form-group{margin-bottom:15px;position: relative;}
+      .form-control{padding:6px 12px;display:block;width:100%;height:40px;font-size:13px;color:#333;background:none;border-radius:5px;border:1px solid #ccc;-webkit-appearance:none;-moz-appearance:none;appearance:none}
+      .form-control:focus{box-shadow:none;outline:none}
+      .formBox .selectBox{display:block;position:relative;z-index:0;width:100%}
+      .formBox .selectBox::after{content:"\e919";font-family:icomoon;font-size:12px;color:#666;position:absolute;right:10px;top:10px;z-index:-1}
+      .formBox .inputGroupAdd{width:122px}
+      .formBox .inputGroupAdd select{padding-right:23px; border-radius:5px; overflow: hidden; text-overflow: ellipsis; white-space:nowrap;color:#666;}
+      .formBox .inputGroupAdd + input{border-radius:5px;-webkit-appearance:none;-moz-appearance:none;appearance:none}
+      input[type=number]::-webkit-inner-spin-button,input[type=number]::-webkit-outer-spin-button{margin:0;-webkit-appearance:none}
+      input[type=number]{-moz-appearance:textfield}
+      .btn{padding:10px 21px;display:inline-block;text-align:center;cursor:pointer;border:1px solid transparent;font-size:13px;line-height:1.42857143;border-radius:5px;transition:.5s;padding:10px 21px;display:inline-block;text-align:center;cursor:pointer;border:1px solid transparent;font-size:13px;line-height:1.42857143;border-radius:5px}
+      .btn-default{background:#eaeaea;color:#333;border:#eaeaea solid 1px;transition:.5s}
+      .btn-default:hover{background:#333;color:#fff;transition:.5s}
+      .btn-primary{background:#58BF93;color:#fff;border:#58BF93 solid 1px}
+      .btn-primary:hover{box-shadow:0 3px 6px 0 rgba(0,0,0,0.16);transition:.5s}
+      .btn-secondary{background:#eaeaea;color:#333;border:#eaeaea solid 1px;transition:.5s}
+      .btn-secondary:hover{background:#333;color:#fff;transition:.5s}
+      .btn-third{background:#fff;color:#333;border:#333 solid 1px;transition:.5s}
+      .btn-third:hover{background:#333;color:#fff;transition:.5s;border:#333 solid 1px}
+      .btn-lg{padding:12px 15px;font-size: 14px}
+      
+      .gradientGreyBg{position: relative;}	
+      .gradientGreyBg .topBg{position:absolute;left:0; right:0; top:-5px;}	
+      .gradientGreyBg .topBg img{width:100%; object-fit:cover;min-height:654px;}	
+      .gradientGreyBg .topBg .mobile{display: none;}	
+      .loginHeader{padding:20px 0;position:absolute;left:0;top:0;right:0;z-index:4}
+      .loginHeader .headerBox{padding:0 15px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}
+      .loginHeader .headerBox .logo{width:86px}
+      .loginHeader .headerBox .rightBox{float: right;}
+      .loginHeader .headerBox .rightBox .btn{padding:0; border-radius: 5px;border: solid 2px rgba(255, 255, 255, 0.45); background:none; height:34px; color:#fff; width: 168px; display:flex; display:-webkit-flex; align-items: center; justify-content: center;font-weight: 600;}
+      .loginHeader .headerBox .rightBox .btn:hover{background:#58BF93; border-color:#58BF93;}
+      .loginBox{padding:80px 0 35px 0;overflow: hidden;min-height: 630px;}
+      .loginBox .contentBox h1{margin:0 0 10px;font-size:27px;line-height:42px;color:#fff;}
+      .loginBox .headingBox{display:block;overflow:hidden}
+      .loginBox .headingBox h2{margin-bottom:20px;font-weight: 600;font-size:22px;color:#333;display:inline-block}
+      .loginBox .headingBox p{margin-bottom:20px;font-size:13px;color:#666;float:right}
+      .loginBox .contentBox ul{display:block;overflow:hidden}
+      .loginBox .contentBox ul li{padding:0 0 0 40px;margin-top:25px;display:block;font-size: 14px;color:#fff;position:relative}
+      .loginBox .contentBox ul li em{color:#fff;font-size:18px;position:absolute;top:0;left:2px}
+      .loginBox .contentBox .btn-more{padding:5px 10px 5px 0;color:#fff;font-size: 13px;display: none;}
+      .loginBox .contentBox .btn-more span{opacity:1;}
+      .loginBox .contentBox .btn-more em{margin:0 0 0 1px; position: relative;top:-1px; font-size: 8px;}
+      .loginBox .contentBox .btn-more.active em::before{content:'\e950';}
+      
+      .loginBox .formBg{position: relative;}
+      .loginBox .formBg .formBgImg{position: absolute;right: -52px;top: -44px;}
+      .loginBox .formBox{padding:20px;display:block; background:#fff;width:362px; position:relative; right:15px; top:0;float:right;border-radius: 8px;box-shadow: 0 -4px 43px 0 rgba(0, 0, 0, 0.11);}
+      .loginBox .formBox figure {display: block; text-align: center; margin: auto; margin-bottom: 4px;}
+      .loginBox .formBox.formAlert{-webkit-animation-name:shake;animation-name:shake;-webkit-animation-duration:.3s;animation-duration:.3s;-webkit-animation-fill-mode:both;animation-fill-mode:both}
+      .loginBox .formBox label{padding:0 0 8px;font-size:13px;color:#666;display:flex; display:-webkit-flex;justify-content: space-between;}
+      .loginBox .formBox label a{ font-size: 13px; float: right;color:#58bf93}
+      .loginBox .formBox label a:hover{text-decoration:underline}
+      .loginBox .formBox label a.forgot{position: relative;color: #58bf93;bottom: -38px;right: 10px;}
+      .loginBox .formBox .input-group{display:flex; display:-webkit-flex; background:#fff;}
+      .loginBox .formBox input[type="password"]{padding-right: 65px;}
+      /* .loginBox .formBox .otpBox .input-group{margin:0 -7px;}
+      .loginBox .formBox .otpBox .input-group .form-control{margin:0 7px;width: calc(25% - 14px);}
+      .loginBox .formBox .input-group [type="tel"]{margin-left:10px; width:calc(100% - 10px);} */
+      .loginBox .formBox .otpBox .input-group{position: relative;}
+      .loginBox .formBox .otpBox .input-group .otpOvrly{position: absolute; right:1px;top:1px; content:'';background:#fff;width:30%;bottom:1px;border-radius: 5px;}
+      .loginBox .formBox .otpBox .input-group .form-control{text-align: left;font-size: 14px;letter-spacing: 27px;/*font-weight: 600!important;*/}
+      .loginBox .formBox .input-group .selectBox{width:120px}
+      .loginBox .formBox .input-group [type="tel"] {margin-left: 10px; width: calc(100% - 10px);}
+      /* .loginBox .formBox .otpBox .input-group [type="tel"] {margin-left: 0; width:100%;border:none;} */
+      .loginBox .formBox .otpBox .input-group{margin:0 auto; width: 185px; height:36px;position: relative;left:0;right:0; background:none;}
+      .loginBox .formBox .otpBox .input-group [type="tel"]{box-shadow:none; border: none;position: absolute; left:22px;z-index: 20;letter-spacing: 19px;text-align: left;padding-left: 5px; width: 160px;font-size: 26px;background: 0 0;}
+      .loginBox .formBox .otpBox .input-group::before {text-align: center; content: "___ \00a0 \00a0 \00a0 ___ \00a0 \00a0 \00a0 ___ \00a0 \00a0 \00a0 ___";position: absolute;bottom: -6px;left: 0;width: 185px;height: 10px;z-index: 10; color: #999; overflow: hidden; line-height: .1;}
+      .loginBox .formBox .otpBox .input-group::after{content: '';position: absolute;right: 0;top: 0; width: 30px; height: 40px; background: #fff; z-index: 30;}
+      .loginBox .formBox .selectBox{display:block;position:relative;z-index:0;width:100%}
+      .loginBox .formBox .selectBox::after{content:"\e919";font-family:icomoon;font-size:12px;color:#666;position:absolute;right:10px;top:10px;z-index:-1}
+      .loginBox .formBox .btn{margin-top: 5px;width:100%;font-weight: 600;}
+      .loginBox .formBox .btn-requestOTP{background:#fff;color:#58BF93;border:#58BF93 solid 1px;transition:.5s}
+      .loginBox .formBoxformBox .btn-requestOTP:hover{background:#58BF93;color:#fff;transition:.5s;border:#58BF93 solid 1px}
+      .loginBox .formBox p{padding-top: 15px; margin-top: 20px; border-top:1px solid #eee;}
+      .loginBox .formBox p a{color:#58bf93}
+      .loginBox .formBox p a:hover{text-decoration:underline}
+      .loginBox .or{margin-bottom: 15px;display: block;text-align: center; font-size:18px; color:#999;position: relative;}
+      .loginBox .or::before{content:"";position:absolute;left:0;top:12px; background:#eee;width:calc(50% - 20px); height: 1px;}
+      .loginBox .or::after{content:"";position:absolute;right:0;top:12px; background:#eee;width:calc(50% - 20px); height: 1px;}
+      .loginBox .notReceived{margin-bottom: 15px;display: block; font-size:13px;}
+      .loginBox .notReceived a{color: #58bf93;}
+      .loginBox .formBox .radioBox{margin:0 -7px; display:-webkit-box; display:-ms-flexbox; display:flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center;}
+      .loginBox .formBox .radioBox li{padding:0 7px;}
+      .loginBox .formBox .radioBox li label{padding:0 25px 0 40px;font-size:13px; cursor: pointer; position:relative; background:#f0f0f0; border-radius:30px; height:44px;display:-webkit-box; display:-ms-flexbox; display:flex;flex-direction: column; justify-content: center;}
+      .loginBox .formBox .radioBox li label input[type="radio"]{display: none;}
+      .loginBox .formBox .radioBox li label input[type="radio"] ~ .checkMark{position:absolute;left: 14px; top: 12px; width: 18px; height:18px; border:1px solid #333; cursor:pointer; border-radius: 100%; background:#fff;}
+      .loginBox .formBox .radioBox li label input[type="radio"] ~ .checkMark::before{position: absolute; left:2px; top:2px; width:12px; height:12px; border:1px solid #e9e9e9; border-radius: 100%;content:'';}
+      .loginBox .formBox .radioBox li label input[type="radio"]:checked ~ .checkMark::before{border:#fff solid 1px; background:#58BF93;}
+      .loginBox .formBox .radioBox li label strong{font-weight: 600; color:#333; line-height:18px; display: block;}
+      .loginBox .formBox .radioBox li label span{ margin-bottom: 5px; display: block; font-size:12px; line-height:12px; color:#6e6e6e;}
+      .loginBox .formBox .radioBox li label .free{padding:0 8px; border-radius:4px; height:14px; position: absolute; bottom:-7px;  color:#fff; font-size: 10px; line-height: normal;background-image: linear-gradient(to left, #58bf93 0%, #39dc96 100%);}
+      
+      
+      .loginBox .formBox .checkBox label{padding-left: 20px; justify-content:flex-start; position: relative;cursor: }
+      
+      .loginBox .formBox .checkBox label input[type="checkbox"]{display: none;}
+      .loginBox .formBox .checkBox label input[type="checkbox"] ~ .checkMark{position:absolute;left: 0; top:3px; width: 16px; height:16px; border:1px solid #ccc; cursor:pointer; border-radius:2px; background:#fff;}
+      .loginBox .formBox .checkBox label input[type="checkbox"] ~ .checkMark::before{position: absolute; left:2px; top:2px; width:10px; height:10px; border:1px solid #e9e9e9; border-radius:2px;content:'';}
+      .loginBox .formBox .checkBox label input[type="checkbox"]:checked ~ .checkMark{border:#58BF93 solid 1px;}
+      .loginBox .formBox .checkBox label input[type="checkbox"]:checked ~ .checkMark::before{border:#fff solid 1px; background:#58BF93;}
+        
+        
+      .loginBox .formBox .microBox{max-height:0; overflow: hidden; transition:.3s;}
+      .loginBox .formBox .microBox.active{margin-top: 10px;max-height:500px; transition:.3s;}
+      .loginBox .formBox .microBox ul{margin: 0 -5px; display: flex; display: -webkit-flex;flex-wrap: wrap; align-items:center;}
+      .loginBox .formBox .microBox ul li{padding:5px;display: none;}
+      .loginBox .formBox .microBox ul li:nth-child(1),.loginBox .formBox .microBox ul li:nth-child(2),.loginBox .formBox .microBox ul li:nth-child(3),.loginBox .formBox .microBox ul li:nth-child(4){display: block;}
+      .loginBox .formBox .microBox ul.active li{display: block!important;}
+      .loginBox .formBox .microBox ul li input[type="checkbox"]{display: none;}
+      .loginBox .formBox .microBox ul li label{padding:0 20px; height: 32px;border-radius: 45px;border: solid 1px #d6d6d6;background: #fff;display: flex; display: -webkit-flex; align-items:center; cursor: pointer;}
+      .loginBox .formBox .microBox ul li input[type="checkbox"]:checked ~ label{ background:#58BF93; color:#fff;border-color:#58BF93;}
+      .loginBox .formBox .microBox .viewAll{padding:0;background:none;width:auto; font-size: 13px; color:#58BF93; }
+      .loginBox .formBox .microBox .viewAll em{margin-left:2px; font-size:9px; position: relative; top:-1px;}
+      .loginBox .formBox .microBox .viewAll.active em::before{content: "\e950";}
+        
+      .serviceBox{padding:85px 0 30px 0;}
+      .serviceBox .cardBox figure{margin-bottom:30px; height:156px; overflow: hidden;text-align: center;display: flex;display:-webkit-flex; align-items: flex-end;}
+      .serviceBox .cardBox figure img{margin:0 auto;}
+      .serviceBox .cardBox h3{ margin-bottom: 5px; text-align: center;color:#020202;font-size: 19px;line-height: 1.58;}
+      .serviceBox .cardBox p{text-align: center;}
+      .error{border-color:#e50606  !important;}
+      .errorBox1 {
+          padding: 2px 20px;
+          display: block;
+          z-index: 2;
+          position: absolute;
+          left: 0;
+          top: 0;
+          border-radius: 8px 8px 0 0;
+          right: 0;
+          background: rgba(255, 0, 0, 0.2);
+      }
+      .errorBox1 .errorTextBox1 {
+          color: #e50606;
+          font-size: 12px;
+          line-height: normal;
+      }
+      .loaderBox {position: fixed;left: 0;top: 0;bottom: 0;right: 0;z-index: 12;display: flex;display: -webkit-flex;align-items: center;justify-content: center;}
+            
+      @-webkit-keyframes shake {
+      0%,to{-webkit-transform:translateZ(0);transform:translateZ(0)}
+      10%,50%,90%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}
+      30%,70%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}
+      }
+      @keyframes shake {
+      0%,to{-webkit-transform:translateZ(0);transform:translateZ(0)}
+      10%,50%,90%{-webkit-transform:translate3d(-10px,0,0);transform:translate3d(-10px,0,0)}
+      30%,70%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}
+      }	
+      @media screen and (max-width:1280px) {
+      .loginBox .contentBox h1{font-size: 24px;line-height: 38px;}
+      }
+      @media screen and (max-width:768px) {
+      .gradientGreyBg .topBg img{height: 710px;}
+      .loginBox .contentBox h1{font-size: 20px; line-height:36px;}
+      .loginBox .contentBox ul li{margin-top:20px;}
+      .loginBox .formBg .formBgImg{width:375px; top:35px;}
+      .loginBox .formBox{width: 100%; position:relative; right:0;}
+      .serviceBox .cardBox h3{font-size: 14px;}
+      }
+      @media screen and (max-width:480px) {
+      .gradientGreyBg .topBg img {height: 614px;}
+      .gradientGreyBg .topBg .desktop{display: none;}
+      .gradientGreyBg .topBg .mobile{display: block;}
+      .loginHeader .headerBox .rightBox .btn{width:146px;}
+      .loginBox {padding:80px 0 30px 0; min-height:inherit;}
+      .loginBox .contentBox h1{margin: 0 0 10px;font-size: 14px;line-height:22px}
+      .loginBox .contentBox strong {font-size: 13px;line-height:20px;}
+      .loginBox .contentBox ul li{padding:0 0 0 33px; margin-top: 15px; font-size: 12px;line-height:18px;font-weight: 600;display: none;}
+      .loginBox .contentBox ul li:nth-child(1){display: block;}
+      .loginBox .contentBox ul li:nth-child(2){display: block;}
+      .loginBox .contentBox ul.active li{display: block !important;}
+      .loginBox .contentBox ul li em{font-size: 14px;}
+      .loginBox .contentBox .btn-more{margin-top: 10px;display:inline-block;}
+      .loginBox .formBg{margin-top:15px;}
+      .loginBox .formBg .formBgImg {display:none;}
+      .serviceBox{padding:30px 0;}
+      .serviceBox .cardBox{margin-bottom:50px;}
+      .serviceBox .cardBox figure{margin-bottom:10px;}
+      }
+      @media screen and (max-width:375px) {
+      .loginBox .formBox .radioBox li {padding: 0 4px;}
+      .loginBox .formBox .radioBox li label{padding:0 15px 0 30px;}
+      .loginBox .formBox .radioBox li label input[type="radio"] ~ .checkMark{width: 12px; height: 12px; left:12px; top:16px;}
+      .loginBox .formBox .radioBox li label input[type="radio"] ~ .checkMark::after{width: 12px; height: 12px;}
+      .loginBox .formBox .radioBox li label input[type="radio"] ~ .checkMark::before{left: 1px;top: 1px; width: 8px;height: 8px;}
+      }
+      </style>
+<link rel="stylesheet" href="../assets/css/user-management/my-activity.css" type="text/css" />
+<link rel="stylesheet" href="../assets/css/user-management/my-activity-popup.css" type="text/css">
+</head>
+<body>
+<div class="loginHeader">
+<div class="container">
+<div class="row">
+<div class="headerBox">
+<div class="logo"><a href="../index.html">
+<picture>
+<img class="img-responsive" src="../../static.squareyards.com/ui-assets/images/squareyards-logo-new.png" alt="Square Yards"> </picture>
+</a></div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="gradientGreyBg">
+<div class="topBg"><img src="../assets/images/bg.svg" alt="" class="img-responsive desktop"><img src="../assets/images/bg-mobile-sec.svg" alt="" class="img-responsive mobile"></div>
+<div class="loginBox">
+<div class="container">
+<div class="row">
+<div class="col-xl-6 col-lg-6 col-md-7 col-sm-12">
+<div class="contentBox">
+<h1>Take control of the service experience during your property search & ownership journey</h1>
+<ul>
+<li><em class="icon-property-needs"></em>Provide more information about your property needs</li>
+<li><em class="icon-fill-fav"></em>Shortlist more properties for site visits & evaluation</li>
+<li><em class="icon-rating"></em> Rate your experience with us and give feedback</li>
+<li><em class="icon-user-b"></em> View assigned sales expert’s profile & request for change if required</li>
+<li><em class="icon-meetings1"></em> Manage your meetings/site visits schedule</li>
+
+</ul>
+<a class="btn btn-more" href="javascript:void(0)"><span>Know More</span> <em class="icon-plus"></em></a>
+</div>
+</div>
+<div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+<div class="formBg">
+<div class="formBgImg"><img src="../assets/images/bg-sec.svg" alt="" class="img-responsive"></div>
+<div class="formBox" id="login_password_box">
+<div class="headingBox">
+<h2>Login to Continue</h2>
+</div>
+<figure><img src="../assets/images/user-interface.svg" class="img-responsive" alt="user interface"></figure>
+<form id="loginForm" action="https://www.squareyards.com/user/check-user-type" autocomplete="off">
+<input autocomplete="false" name="hidden" type="hidden" style="display:none">
+<div class="form-group">
+<label>Please Enter Mobile Number to Continue</label>
+<div class="input-group">
+<div class="inputGroupAdd selectBox">
+<select class="form-control" name="countryCode">
+<option value="91">+91</option>
+<option value="61">+61</option>
+<option value="852">+852</option>
+<option value="968">+968</option>
+<option value="974">+974</option>
+<option value="65">+65</option>
+<option value="971">+971</option>
+<option value="44">+44</option>
+<option value="1">+1</option>
+<option value="1">+1</option>
+<option value="27">+27</option>
+<option value="60">+60</option>
+<option value="64">+64</option>
+<option value="66">+66</option>
+<option value="966">+966</option>
+<option value="31">+31</option>
+<option value="973">+973</option>
+<option value="54">+54</option>
+<option value="43">+43</option>
+<option value="880">+880</option>
+<option value="32">+32</option>
+<option value="55">+55</option>
+<option value="86">+86</option>
+<option value="385">+385</option>
+<option value="42">+42</option>
+ <option value="45">+45</option>
+<option value="1809">+1809</option>
+<option value="20">+20</option>
+<option value="358">+358</option>
+<option value="679">+679</option>
+<option value="33">+33</option>
+<option value="49">+49</option>
+<option value="30">+30</option>
+<option value="592">+592</option>
+<option value="36">+36</option>
+<option value="62">+62</option>
+<option value="353">+353</option>
+<option value="972">+972</option>
+<option value="39">+39</option>
+<option value="81">+81</option>
+<option value="962">+962</option>
+<option value="82">+82</option>
+<option value="965">+965</option>
+<option value="853">+853</option>
+<option value="52">+52</option>
+<option value="212">+212</option>
+<option value="47">+47</option>
+<option value="48">+48</option>
+<option value="351">+351</option>
+<option value="40">+40</option>
+<option value="7">+7</option>
+<option value="34">+34</option>
+<option value="46">+46</option>
+<option value="41">+41</option>
+<option value="1868">+1868</option>
+<option value="216">+216</option>
+<option value="90">+90</option>
+<option value="84">+84</option>
+</select>
+</div>
+<input type="tel" maxlength="15" name="mobile" placeholder="Phone Number" class="form-control">
+</div>
+</div>
+
+<div class="form-group">
+<button type="button" class="btn btn-primary" id="send_otp_btn">Proceed to Login</button>
+</div>
+</form>
+<p>Don’t Have an Account Yet? <a href="signup.html">Register Here. </a></p>
+</div>
+<div class="formBox" id="otp_box" style="display: none;">
+<div class="headingBox">
+<h2>Confirm OTP to Continue</h2>
+</div>
+<form id="verify_login_otp">
+<div class="form-group otpBox">
+<div>Please enter the OTP sent to</div>
+<label><span id="verified_mobile"></span> <a href="javascript:void(0)" id="change_number">Change</a></label>
+<div class="input-group">
+<input class="form-control" data-type="otp" type="tel" maxlength="4" size="4" min="0" max="9" name="otp" pattern="[0-9]{4}" required>
+<span class="otpOvrly"></span>
+</div>
+</div>
+<div class="form-group">
+<button type="submit" class="btn btn-primary" id="verify_otp_btn">Confirm</button>
+<div class="errorBox">
+<span class="errorTextBox"></span>
+</div>
+</div>
+<small style="display:none" class="notReceived">Not received your OTP? <a href="javascript:void(0)" id="resend_otp">Resend OTP</a></small>
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="loaderBox" id="loaderBox" style="display:none">
+<img src="../../static.squareyards.com/ui-assets/images/loader2-small.gif" alt="">
+</div>
+<script src="../assets/lib/js/jquery-3.3.1.min.js"></script>
+<script src="../assets/js/helper.js"></script>
+<script>
+  let _galaktic_tracking_url = 'https://sysearch-app2.squareyards.com/';
+</script>
+
+
+<script>
+    function validationFails(error) {
+        if (typeof error == 'object') {
+            $.each(error, (k,v) => {
+                switch (k) {
+                      case "mobile":
+                      showInputErrorsForMobile($('input[name='+k+']'), v);
+                      break;
+                        case "password":
+                        showInputErrors($('input[name='+k+']'), v);
+                        break;
+                    default:
+                        // alert(v)
+                        break;
+                }
+            });
+        } else {
+            console.error(error);
+        }
+    }
+
+    function showInputErrors(element, msg){
+      element.parent().find('label').addClass('lblerror');
+        element.addClass('error');
+        element.after($('<div/>',{
+            class:'errorBox'
+        }).append($('<div/>',{
+            class: 'errorTextBox',
+            text: msg
+        }).prepend(
+                        $('<em/>',{class:'icon-error-msg'})
+        )))
+    }
+
+    function showInputErrorsForMobile(element, msg){
+      element.parent().parent().find('label').addClass('lblerror');
+      element.addClass('error');
+        element.parent().after($('<div/>',{
+            class:'errorBox'
+        }).append($('<div/>',{
+            class: 'errorTextBox',
+            text: msg
+        }).prepend(
+                        $('<em/>',{class:'icon-error-msg'})
+        )))
+    }
+    
+    function hideAllInputError(){
+        $('.errorBox').remove();
+        $('.error').removeClass('error');
+    }
+
+    const removeFormErrors = (element = null) => {
+      if(element){
+          element.find('label.lblerror').removeClass('lblerror');
+          element.find('input[type=text],input[type=tel],input[type=password],select,textarea').removeClass('error');
+          element.find('.errorBox').remove();
+      }else{
+          $('label.lblerror').removeClass('lblerror');
+          $('input[type=text],select,textarea').removeClass('error');
+          $('.errorBox').remove();
+      }
+    }
+
+    $(document).on('change', 'input[type=text],input[type=tel],input[type=password],input[type=file],input[type=radio],input[type=checkbox],select,textarea', function(){
+      removeFormErrors($(this).closest('div.form-group'))
+    })
+
+
+    let userDashboardUrl = userType => {
+    if(userType.toLowerCase() == 'employee' || userType == 'Partner') {
+        return baseUrl+'user/my-property';
+    }else if(userType == 'User'){
+        return baseUrl+'user/my-activity';
+    }
+    return baseUrl;
+};
+    let pageToAccess = "";
+    $(function(){
+      $(".loginBox .contentBox .btn-more").on("click",function(){
+        $(this).toggleClass("active");
+        $(".loginBox .contentBox ul").toggleClass("active");
+      });
+      
+      $("#send_otp_btn").on("click",function(){
+        $('div.errorBox1').remove();
+        $('#loaderBox').show();
+        $('.notReceived').show();
+        resetErrors();
+        let url = "../index.html";
+        let countryCode = $("select[name=countryCode]").val();
+        let mobile = $("input[name=mobile]").val();
+          $.ajax({
+              type: 'POST',
+              url: url,
+              data: {"countryCode":countryCode,mobile:mobile},
+              success: function (apiresponse, textStatus, xhr) {
+                setTimeout(function(){
+                  $('.notReceived').show();
+                }, 30000)
+                  $("#verified_mobile").text('+'+countryCode+'-'+mobile);
+                  $("input[name=otp]").val('');
+                  if(apiresponse.data && apiresponse.data.otp != undefined){
+                    $("input[name=otp]").val(apiresponse.data.otp);
+                  }
+                  $('#login_password_box').hide();
+                  $('#otp_box').show();
+              },
+              error: function (response, status, error) {
+                helperJS.alertBox('error',response.responseText);
+                // showFormError($('#login_password_box'),response.responseText);
+                // showFormError($('#otp_box'),response.responseText);
+              },
+              complete: function(xhr, status) {
+                $('#loaderBox').hide();
+              }
+          });
+      });
+    
+      $("#change_number").on("click",function(){
+        resetErrors();
+        $('#login_password_box').show();
+        $('#otp_box').hide();
+      });
+    
+      $("#resend_otp").on("click",function(){
+        resetErrors();
+        $("#send_otp_btn").trigger('click');
+      });
+    
+      $('#verify_login_otp').on('submit', function (e) {
+        e.preventDefault();
+        $('#loaderBox').show();
+        resetErrors();
+        let url = "../index.html";
+        let countryCode = parseInt($("select[name=countryCode]").val());
+        let mobile = parseInt($("input[name=mobile]").val());
+        let otp = $("input[name=otp]").val();
+        $.ajax({
+            type: 'post',
+            url: url,
+            data: { mobile: mobile,countryCode:countryCode,otp:parseInt(otp),page:'login' },
+            success: function (apiresponse, textStatus, xhr) {
+              if(apiresponse.redirect){
+                $('#loaderBox').show();
+                if(apiresponse.data.userExists){
+                  _paq.push(['setUserId',apiresponse.data.mobile]);
+                  let dLayer_pagetype = '';
+                  if(typeof(dataLayer)!= "undefined"){
+                      for(let i=0; i<dataLayer.length; i++){
+                          if(dataLayer[i].PageType){
+                              dLayer_pagetype=dataLayer[i].PageType;
+                              break;  
+                          }
+                      }
+                  }
+                  let eventName = {"name": apiresponse.data.name, "emailId": apiresponse.data.emailid, "mobile": apiresponse.data.mobile, "city": apiresponse.data.city, "pageType":dLayer_pagetype };
+                  _paq.push(['trackEvent', 'user', 'login', JSON.stringify(eventName)]);
+                }
+                window.location.href = apiresponse.redirect;
+              }else{
+                showFormError($('#otp_box'),'something went wrong');
+              }
+            },
+            error: function (response, status, error) {
+              showFormError($('#otp_box'),response.responseText);
+            },
+            complete: function(xhr, status) {
+              $('#loaderBox').hide();
+            }
+        });
+      });
+    
+      const resetErrors = () => {
+        $('div.errorBox1').remove();
+        $('div.error.inputError1').removeClass('error').removeClass('inputError');
+      }
+      
+      const showFormError = (element, message) => {
+        element.find('div.errorBox1').remove();
+        element.prepend($('<div/>',{
+          class: 'errorBox1'
+        }).append($('<div/>',{
+          class: 'errorTextBox1',
+          text: message
+        })))
+        element.addClass("formAlert");
+        setTimeout(function(){
+          element.removeClass("formAlert")
+        },500);
+        $('html,body').animate({
+          scrollTop: element.offset().top
+        },10);
+      }
+  
+  });
+
+  $(document).ready(function(){
+  // getCurrentLocation.init(false);
+  $(document).on('keypress',"input[type='tel']",function(event){
+    let code = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+    if(code==48 && !$(this).val() && $(this).data('type') != "otp"){
+      return false;
+    }
+    if (((code >= 48 && code <= 57) || code == 8 || code == 9 || code == 37 || code == 38 || code == 39 || code == 40 || code == 46)) {
+        return true;
+    } else {
+        return false;
+    }
+  });
+
+  $(document).on('paste',"input[type='tel']",function(event){
+    event.preventDefault();
+    });
+  })
+  </script>
+<script src="../assets/js/tracking.js" defer></script>
+</body>
+
+<!-- Mirrored from www.squareyards.com/user/login by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jul 2021 10:31:10 GMT -->
+</html>
