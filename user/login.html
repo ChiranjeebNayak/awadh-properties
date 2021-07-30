@@ -1,17 +1,14 @@
 <!doctype html>
 <html lang="en">
-
-<!-- Mirrored from www.squareyards.com/user/login by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jul 2021 10:31:10 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
 <meta charset="UTF-8">
 <title>Login</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0,user-scalable=no" />
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
-<link rel="stylesheet" href="../assets/fonts/activities/moonicon.css" type="text/css" />
-<link rel="icon" href="../assets/images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="../assets/fonts/activities/moonicon.css" type="text/css" />
-<link rel="stylesheet" href="../assets/css/global.css" type="text/css" />
+<link rel="stylesheet" href="/assets/fonts/activities/moonicon.css" type="text/css" />
+<link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="/assets/fonts/activities/moonicon.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/global.css" type="text/css" />
 <style>
       *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
       :before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
@@ -275,17 +272,17 @@
       .loginBox .formBox .radioBox li label input[type="radio"] ~ .checkMark::before{left: 1px;top: 1px; width: 8px;height: 8px;}
       }
       </style>
-<link rel="stylesheet" href="../assets/css/user-management/my-activity.css" type="text/css" />
-<link rel="stylesheet" href="../assets/css/user-management/my-activity-popup.css" type="text/css">
+<link rel="stylesheet" href="/assets/css/user-management/my-activity.css" type="text/css" />
+<link rel="stylesheet" href="/assets/css/user-management/my-activity-popup.css" type="text/css">
 </head>
 <body>
 <div class="loginHeader">
 <div class="container">
 <div class="row">
 <div class="headerBox">
-<div class="logo"><a href="../index.html">
+<div class="logo"><a href="https://www.squareyards.com/">
 <picture>
-<img class="img-responsive" src="../../static.squareyards.com/ui-assets/images/squareyards-logo-new.png" alt="Square Yards"> </picture>
+<img class="img-responsive" src="https://static.squareyards.com/ui-assets/images/squareyards-logo-new.png" alt="Square Yards"> </picture>
 </a></div>
 
 </div>
@@ -293,7 +290,7 @@
 </div>
 </div>
 <div class="gradientGreyBg">
-<div class="topBg"><img src="../assets/images/bg.svg" alt="" class="img-responsive desktop"><img src="../assets/images/bg-mobile-sec.svg" alt="" class="img-responsive mobile"></div>
+<div class="topBg"><img src="/assets/images/bg.svg" alt="" class="img-responsive desktop"><img src="/assets/images/bg-mobile-sec.svg" alt="" class="img-responsive mobile"></div>
 <div class="loginBox">
 <div class="container">
 <div class="row">
@@ -313,12 +310,12 @@
 </div>
 <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
 <div class="formBg">
-<div class="formBgImg"><img src="../assets/images/bg-sec.svg" alt="" class="img-responsive"></div>
+<div class="formBgImg"><img src="/assets/images/bg-sec.svg" alt="" class="img-responsive"></div>
 <div class="formBox" id="login_password_box">
 <div class="headingBox">
 <h2>Login to Continue</h2>
 </div>
-<figure><img src="../assets/images/user-interface.svg" class="img-responsive" alt="user interface"></figure>
+<figure><img src="/assets/images/user-interface.svg" class="img-responsive" alt="user interface"></figure>
 <form id="loginForm" action="https://www.squareyards.com/user/check-user-type" autocomplete="off">
 <input autocomplete="false" name="hidden" type="hidden" style="display:none">
 <div class="form-group">
@@ -333,6 +330,7 @@
 <option value="974">+974</option>
 <option value="65">+65</option>
 <option value="971">+971</option>
+
 <option value="44">+44</option>
 <option value="1">+1</option>
 <option value="1">+1</option>
@@ -351,7 +349,7 @@
 <option value="86">+86</option>
 <option value="385">+385</option>
 <option value="42">+42</option>
- <option value="45">+45</option>
+<option value="45">+45</option>
 <option value="1809">+1809</option>
 <option value="20">+20</option>
 <option value="358">+358</option>
@@ -394,7 +392,7 @@
 <button type="button" class="btn btn-primary" id="send_otp_btn">Proceed to Login</button>
 </div>
 </form>
-<p>Don’t Have an Account Yet? <a href="signup.html">Register Here. </a></p>
+<p>Don’t Have an Account Yet? <a href="https://www.squareyards.com/user/signup">Register Here. </a></p>
 </div>
 <div class="formBox" id="otp_box" style="display: none;">
 <div class="headingBox">
@@ -426,10 +424,10 @@
 
 </div>
 <div class="loaderBox" id="loaderBox" style="display:none">
-<img src="../../static.squareyards.com/ui-assets/images/loader2-small.gif" alt="">
+<img src="https://static.squareyards.com/ui-assets/images/loader2-small.gif" alt="">
 </div>
-<script src="../assets/lib/js/jquery-3.3.1.min.js"></script>
-<script src="../assets/js/helper.js"></script>
+<script src="/assets/lib/js/jquery-3.3.1.min.js"></script>
+<script src="/assets/js/helper.js"></script>
 <script>
   let _galaktic_tracking_url = 'https://sysearch-app2.squareyards.com/';
 </script>
@@ -524,7 +522,7 @@
         $('#loaderBox').show();
         $('.notReceived').show();
         resetErrors();
-        let url = "../index.html";
+        let url = "https://www.squareyards.com/user/sendotp";
         let countryCode = $("select[name=countryCode]").val();
         let mobile = $("input[name=mobile]").val();
           $.ajax({
@@ -569,7 +567,7 @@
         e.preventDefault();
         $('#loaderBox').show();
         resetErrors();
-        let url = "../index.html";
+        let url = "https://www.squareyards.com/user/verifyotp";
         let countryCode = parseInt($("select[name=countryCode]").val());
         let mobile = parseInt($("input[name=mobile]").val());
         let otp = $("input[name=otp]").val();
@@ -651,8 +649,6 @@
     });
   })
   </script>
-<script src="../assets/js/tracking.js" defer></script>
+<script src="/assets/js/tracking.js" defer></script>
 </body>
-
-<!-- Mirrored from www.squareyards.com/user/login by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 28 Jul 2021 10:31:10 GMT -->
 </html>
