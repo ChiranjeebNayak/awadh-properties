@@ -1,0 +1,1 @@
+const PRECACHE="precache-v2.8",RUNTIME="runtime-v2.8",PRECACHE_URLS=["/assets/css/header_city_popup.css","/assets/js/tracking.js","/assets/fonts/home/fonts/icomoon.ttf"],BYPASS_URLS=["/home/heatmap/1"];self.addEventListener("install",s=>{s.waitUntil(caches.open(PRECACHE).then(s=>s.addAll(PRECACHE_URLS)).then(self.skipWaiting()))});
